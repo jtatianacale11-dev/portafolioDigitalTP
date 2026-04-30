@@ -94,9 +94,7 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 * 🖋️ *Gran Ecosistema: Tiene una enorme cantidad de librerías y frameworks gratuitos que permiten hacer casi cualquier cosa sin empezar desde cero.*
 
 ## ✅ Programación por bloques
- 💬La programación por bloques es una forma de programar que permite crear software uniendo piezas visuales en lugar de escribir código basado en texto. Es como jugar con piezas de LEGO: cada bloque representa una instrucción, un evento o una función específica.
-Este método se basa en el concepto de "Drag and Drop" (arrastrar y soltar), lo que elimina la posibilidad de cometer errores de sintaxis (como olvidar un punto y coma o un paréntesis), facilitando el aprendizaje de la lógica detrás del código.
-Cómo funciona en lugar de escribir líneas complejas como if (x > 10) { ... }, seleccionas un bloque con la etiqueta "si... entonces" y lo encajas con un bloque de condición. Los bloques tienen formas diferentes (como muescas o salientes) que solo permiten conectarlos si la lógica es coherente.
+ 💬La programación por bloques es una metodología visual que permite crear secuencias lógicas y algoritmos arrastrando y encajando piezas de colores, cada una con comandos específicos, sin necesidad de escribir código textual. Ideal para principiantes, esta técnica fomenta el pensamiento computacional, la resolución de problemas y la creatividad mediante interfaces lúdicas.
 
 ####  *Características Principales:*
 
@@ -105,7 +103,12 @@ Cómo funciona en lugar de escribir líneas complejas como if (x > 10) { ... }, 
 *  *Retroalimentación Instantánea: La mayoría de estas plataformas permiten ver el resultado de las acciones de inmediato (por ejemplo, mover un personaje en la pantalla).*
 *  *Sin Errores de Escritura: Al no escribir texto, no hay fallos por errores ortográficos o de puntuación.*
 
-
+#### *Existen diversas plataformas diseñadas bajo este esquema:*
+1.	Scratch: La más famosa del mundo, desarrollada por el MIT. Ideal para crear historias interactivas y juegos.
+2.	PSeInt (Modo Visual): Muy utilizado en entornos académicos para aprender pseudocódigo antes de pasar a lenguajes reales.
+3.	App Inventor: Una herramienta de Google y el MIT para crear aplicaciones reales de Android uniendo bloques.
+4.	Blockly: Una librería de Google que muchas otras aplicaciones usan para integrar este sistema de programación.
+5.	Tinkercad (Codeblocks): Permite programar circuitos de Arduino o diseñar piezas en 3D mediante bloques.
 
 
 
