@@ -15,9 +15,9 @@
 ## 1. 🧾 **Algoritmo**  
 💬*Un algoritmo es una secuencia de pasos lógicos, ordenados y finitos que se siguen para resolver un problema o realizar una tarea específica. Es la base antes de escribir cualquier código en lenguajes como C, Java o Python.Para que un algoritmo sea  efectivo,debe cumplir con estas características:
       
-  *📌*Preciso: Cada paso debe estar claramente definido sin ambigüedades.*
-  *📌*Finito: Debe tener un inicio y un final (un número determinado de pasos).*
-  *📌*Definido: Si se sigue el mismo algoritmo varias veces con los mismos datos, siempre se debe obtener el mismo resultado.*
+  * 📌*Preciso: Cada paso debe estar claramente definido sin ambigüedades.*
+  * 📌*Finito: Debe tener un inicio y un final (un número determinado de pasos).*
+  * 📌*Definido: Si se sigue el mismo algoritmo varias veces con los mismos datos, siempre se debe obtener el mismo resultado.*
   
         >
 ## 2. 🔢 **Pseudocódigo**  
