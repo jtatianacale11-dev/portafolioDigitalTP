@@ -58,7 +58,7 @@
 <img width="157" height="135" alt="image" src="https://github.com/user-attachments/assets/87792649-c27e-4ff7-836a-18f064920512" />  
 💬El lenguaje C es un lenguaje de programación de propósito general, desarrollado originalmente por Dennis Ritchie en los Laboratorios Bell. Se clasifica como un lenguaje de medio nivel, lo que significa que combina la capacidad de manipulación de hardware y gestión de memoria de bajo nivel (similar al lenguaje ensamblador) con estructuras de control y sintaxis legibles propias de los lenguajes de alto nivel.
 
-### Sus características principales:
+####  *Características principales:*
 * 🖊️ *Eficiencia y Rapidez: Al ser un lenguaje compilado, se traduce directamente a código máquina, lo que minimiza el consumo de recursos y maximiza la velocidad de ejecución.*
 * 🖊️ *Portabilidad: El código escrito en C puede ser adaptado a diferentes arquitecturas de hardware con cambios mínimos.*
 * 🖊️ *Control de Memoria: A diferencia de lenguajes modernos, C permite el uso de punteros, otorgando al programador el control total sobre la gestión de la memoria dinámica.*
@@ -68,7 +68,7 @@
 <img width="179" height="198" alt="image" src="https://github.com/user-attachments/assets/f060fe03-9168-4481-8f97-22a9a0c0e2ce" />
 💬Java es un lenguaje de programación de alto nivel y una plataforma informática ampliamente utilizada en el mundo del desarrollo de software. Fue creado originalmente por Sun Microsystems en 1995.
 
-### *Características Principales*
+####  *Características Principales:*
 * ✍️  *Orientado a Objetos (POO): Todo en Java se organiza en torno a "objetos" y "clases", lo que facilita la reutilización de código y la creación de sistemas complejos de forma ordenada.*
 * ✍️  *Independencia de la Plataforma: Gracias a que el código se traduce a un formato intermedio llamado bytecode, funciona igual en Windows, Linux o macOS.*
 * ✍️  *Seguro y Robusto: Cuenta con un sistema de gestión de memoria automático conocido como Garbage Collector (recolector de basura), que ayuda a prevenir errores comunes de programación y fugas de memoria.*
@@ -86,7 +86,7 @@ Para trabajar con Java, solemos escuchar tres siglas importantes:
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general que se ha convertido en uno de los más populares del mundo debido a su sintaxis clara y legible, muy cercana al lenguaje humano (inglés).
 Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la legibilidad del código y en permitir que los desarrolladores expresen conceptos en menos líneas de código que en lenguajes como C++ o Java.
 
-### *Características Principales*
+####  *Características Principales:*
 
 * 🖋️ *Sintaxis Sencilla: No utiliza llaves {} para definir bloques de código, sino que emplea la sangría (indentación) obligatoria, lo que fuerza a escribir código limpio.*
 * 🖋️ *Lenguaje Interpretado: El código se ejecuta línea por línea, lo que facilita enormemente la depuración y el aprendizaje.*
