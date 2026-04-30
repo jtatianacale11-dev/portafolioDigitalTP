@@ -110,16 +110,98 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 4.	Blockly: Una librería de Google que muchas otras aplicaciones usan para integrar este sistema de programación.
 5.	Tinkercad (Codeblocks): Permite programar circuitos de Arduino o diseñar piezas en 3D mediante bloques.
 
+<img width="307" height="208" alt="image" src="https://github.com/user-attachments/assets/2e866b5b-3ebb-4ae9-bb88-75e7c8d7d51f" />
+
+#  📝 **Ejercicio**
+## Planteamiento de problema
+💬 Escriba un programa que permita calcular la masa de aire con la siguiente fórmula: masa = (presión * volumen) / (0.37 * (temperatura + 460)). El ingreso de la masa, presión y volumen son cantidades enteras ingresadas por el usuario.
+
+● Análisis del problema
+* Entrada:
+  Presión,Volumen ,Temperatura.
+* Proceso:
+ operación: masa = (presión \cdot volumen) / (0.37 \cdot (temperatura + 460)).
+* Salida:
+ El valor resultante de la variable masa.
+
+● 🔤Diseño del algoritmo 
+🗯️Diagrama de flujo
+<img width="536" height="513" alt="image" src="https://github.com/user-attachments/assets/3fadc267-4b61-4c85-b025-a01b16d72282" />
+
+
+🔤Pseudocódigo
+
+Algoritmo calcular_MasaAire
+
+//Definir Variables
+
+Definir masa Como Real
+Definir presion Como Real
+Definir volumen Como Real
+Definir temperatura Como Real
+
+//Datos de Entrada
+
+Escribir "Ingrese la Presión:";
+Leer presion
+Escribir "Ihgrese el Volumen:"
+Leer volumen
+Escribir "Ingrese la Temperatura:";
+Leer temperatura
+
+//Proceso
+	
+masa = (presion * volumen) / (0.37 * (temperatura + 460));
+
+//Salida	
+Escribir "La masa del aire es:",masa;
+		
+FinAlgoritmo
+
+
+● Codificación (código fuente)
+
+# include <stdio.h>
+
+int main(){
+    
+float masa,presion,volumen,temperatura;
+
+printf("Ingrese la Presion:\n");
+scanf("%f",&presion);
+printf("Ingrese la Volumen:\n");
+scanf("%f",&volumen);
+printf("Ingrese la Temperatura:\n");
+scanf("%f",&temperatura);
+
+masa =(presion* volumen)/ (0.37*(temperatura + 460));
+
+printf("La masa del aire es:%.4f\n",masa);
+
+    return 0;
+}
+
+
+● Validación 
+
+   ✅ Ejecución del Programa
+   <img width="691" height="189" alt="image" src="https://github.com/user-attachments/assets/95ae4569-b769-40e8-9a04-1f4652675e6d" />
+
+  ✅ Prueba de escritorio
+
+| Presion      | Volumen      | Temperatura |masa = (presion * volumen) / (0.37 * (temperatura + 460))| Imprime |
+|--------------|--------------|-----------------------------------------------------------------------|---------|
+|     4        |     6        |    65       |masa = (4 * 6) / (0.37 * (65 + 460))                     | 0.1236  |
+|     10       |     15       |    80       |masa = (10 * 15) / (0.37 * (80 + 460))                   | 0.7508  | 
+
+
+## Principales dificultades y reflexión crítica en la aplicación de los contenidos.
 
 
 
 
- 
 
 
 
-# 🧰 **Ejercicio**
-- 📝
-- 💬   
-
+  
 
