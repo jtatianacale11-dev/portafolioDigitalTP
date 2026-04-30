@@ -54,17 +54,17 @@
 
 
 ##  💻Lenguajes de programación 
-# *  *Lenguaje C*
+## *Lenguaje C*
 <img width="157" height="135" alt="image" src="https://github.com/user-attachments/assets/87792649-c27e-4ff7-836a-18f064920512" />  
 💬El lenguaje C es un lenguaje de programación de propósito general, desarrollado originalmente por Dennis Ritchie en los Laboratorios Bell. Se clasifica como un lenguaje de medio nivel, lo que significa que combina la capacidad de manipulación de hardware y gestión de memoria de bajo nivel (similar al lenguaje ensamblador) con estructuras de control y sintaxis legibles propias de los lenguajes de alto nivel.
 
-Sus características principales:
+### Sus características principales:
 * 🖊️ *Eficiencia y Rapidez: Al ser un lenguaje compilado, se traduce directamente a código máquina, lo que minimiza el consumo de recursos y maximiza la velocidad de ejecución.*
 * 🖊️ *Portabilidad: El código escrito en C puede ser adaptado a diferentes arquitecturas de hardware con cambios mínimos.*
 * 🖊️ *Control de Memoria: A diferencia de lenguajes modernos, C permite el uso de punteros, otorgando al programador el control total sobre la gestión de la memoria dinámica.*
 * 🖊️ *Modularidad: Facilita la división de programas complejos en módulos o funciones independientes, mejorando la organización del código.*
 
-# JAVA
+## JAVA
 <img width="179" height="198" alt="image" src="https://github.com/user-attachments/assets/f060fe03-9168-4481-8f97-22a9a0c0e2ce" />
 💬Java es un lenguaje de programación de alto nivel y una plataforma informática ampliamente utilizada en el mundo del desarrollo de software. Fue creado originalmente por Sun Microsystems en 1995.
 
@@ -80,7 +80,7 @@ Para trabajar con Java, solemos escuchar tres siglas importantes:
 *  *JVM (Java Virtual Machine): El intérprete que traduce el código para que la computadora lo entienda.*
 
 
-# Python
+## Python
 <img width="167" height="152" alt="image" src="https://github.com/user-attachments/assets/f04ed650-5084-4f2d-be12-960aa3a329ca" />
 
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general que se ha convertido en uno de los más populares del mundo debido a su sintaxis clara y legible, muy cercana al lenguaje humano (inglés).
