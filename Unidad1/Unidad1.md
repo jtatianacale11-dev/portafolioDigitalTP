@@ -54,7 +54,9 @@
 
 
 ##  💻Lenguajes de programación 
-<img width="157" height="135" alt="image" src="https://github.com/user-attachments/assets/87792649-c27e-4ff7-836a-18f064920512" /> ### Lenguaje C
+### * Lenguaje C*
+<img width="157" height="135" alt="image" src="https://github.com/user-attachments/assets/87792649-c27e-4ff7-836a-18f064920512" />  
+
 
 
 
