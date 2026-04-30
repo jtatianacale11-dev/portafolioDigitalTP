@@ -54,8 +54,16 @@
 
 
 ##  💻Lenguajes de programación 
-### * Lenguaje C*
+### *  *Lenguaje C*
 <img width="157" height="135" alt="image" src="https://github.com/user-attachments/assets/87792649-c27e-4ff7-836a-18f064920512" />  
+El lenguaje C es un lenguaje de programación de propósito general, desarrollado originalmente por Dennis Ritchie en los Laboratorios Bell. Se clasifica como un lenguaje de medio nivel, lo que significa que combina la capacidad de manipulación de hardware y gestión de memoria de bajo nivel (similar al lenguaje ensamblador) con estructuras de control y sintaxis legibles propias de los lenguajes de alto nivel.
+
+Sus características principales:
+* 🖊️ *Eficiencia y Rapidez: Al ser un lenguaje compilado, se traduce directamente a código máquina, lo que minimiza el consumo de recursos y maximiza la velocidad de ejecución.*
+* 🖊️ *Portabilidad: El código escrito en C puede ser adaptado a diferentes arquitecturas de hardware con cambios mínimos.*
+* 🖊️ *Control de Memoria: A diferencia de lenguajes modernos, C permite el uso de punteros, otorgando al programador el control total sobre la gestión de la memoria dinámica.*
+* 🖊️ *Modularidad: Facilita la división de programas complejos en módulos o funciones independientes, mejorando la organización del código.*
+
 
 
 
