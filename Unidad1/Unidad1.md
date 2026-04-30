@@ -19,7 +19,7 @@
   * 📌*Finito: Debe tener un inicio y un final (un número determinado de pasos).*
   * 📌*Definido: Si se sigue el mismo algoritmo varias veces con los mismos datos, siempre se debe obtener el mismo resultado.*
   
-        >
+        
 ## 2. 🔢 **Pseudocódigo**  
    💬*El pseudocódigo es una forma de escribir los pasos de un algoritmo utilizando un lenguaje muy cercano al nuestro, pero                  siguiendo una estructura lógica similar a la de un lenguaje de programación real.Se le llama "pseudo" (falso) porque no es                código que una computadora pueda ejecutar directamente, sino que sirve para que los programadores diseñen la lógica de un                 programa antes de sentarse a escribirlo en un lenguaje complejo como C, Java o Python.  
 - ✏️*Su función principal es facilitar la comprensión de un algoritmo.*
@@ -30,27 +30,21 @@
 ### 📝Ejemplo:
   <img width="695" height="422" alt="Captura de pantalla (72)" src="https://github.com/user-attachments/assets/03d33e15-6a51-458a-b9de-3b7a83b5c883" />
 
-  
+## 3. 🧠 **Driagrama de flujo**
+ 💬*Un diagrama de flujo es la representación gráfica de un algoritmo o de un proceso. Utiliza símbolos geométricos definidos para representar diferentes tipos de acciones, conectados por flechas que indican el orden o la "ruta" que sigue la información.*
+
+ Sus símbolos principales y sus funciones
+
+* 🔘*Óvalo (Inicio / Fin): Indica dónde empieza y dónde termina el proceso.*
+* ▱ *Paralelogramo (Entrada / Salida): Se usa cuando el programa necesita pedir un dato al usuario (Leer) o mostrar un resultado en pantalla (Imprimir).*
+* 🟦*Rectángulo (Proceso): Representa cualquier operación lógica o matemática (por ejemplo: Suma = A + B).*
+* 🔶*Rombo (Decisión): Representa una condición. Tiene una entrada y dos salidas posibles: Sí o No (Verdadero o Falso).*
+* ⬇️*Flechas (Líneas de flujo): Indican la dirección del proceso.*
+ 
 
 
 
-
-        
-
-## 3. ⚙️ **Diagrama de flujo**  
-  
-         
-## 4. 🔤 **prueba de escritorio**  
-   - ### ✨
----
-## 🔤 Pseudocódigos
-
-> 💬
-    
-
-## 🧠 Driagrama de flujo
-
-> 💬*
+ 
 
 ## ✅ Prubeas de escritorio
 
