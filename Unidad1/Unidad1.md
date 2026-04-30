@@ -69,10 +69,10 @@ Sus características principales:
 💬Java es un lenguaje de programación de alto nivel y una plataforma informática ampliamente utilizada en el mundo del desarrollo de software. Fue creado originalmente por Sun Microsystems en 1995.
 
 ### *Características Principales*
-*✍️ *Orientado a Objetos (POO): Todo en Java se organiza en torno a "objetos" y "clases", lo que facilita la reutilización de código y la creación de sistemas complejos de forma ordenada.*
-*✍️ *Independencia de la Plataforma: Gracias a que el código se traduce a un formato intermedio llamado bytecode, funciona igual en Windows, Linux o macOS.*
-*✍️ *Seguro y Robusto: Cuenta con un sistema de gestión de memoria automático conocido como Garbage Collector (recolector de basura), que ayuda a prevenir errores comunes de programación y fugas de memoria.*
-*✍️ *Multihilo: Permite ejecutar varias tareas de forma simultánea dentro de un mismo programa, mejorando el rendimiento en aplicaciones interactivas.*
+  ✍️  *Orientado a Objetos (POO): Todo en Java se organiza en torno a "objetos" y "clases", lo que facilita la reutilización de código y la creación de sistemas complejos de forma ordenada.*
+  ✍️  *Independencia de la Plataforma: Gracias a que el código se traduce a un formato intermedio llamado bytecode, funciona igual en Windows, Linux o macOS.*
+  ✍️  *Seguro y Robusto: Cuenta con un sistema de gestión de memoria automático conocido como Garbage Collector (recolector de basura), que ayuda a prevenir errores comunes de programación y fugas de memoria.*
+  ✍️  *Multihilo: Permite ejecutar varias tareas de forma simultánea dentro de un mismo programa, mejorando el rendimiento en aplicaciones interactivas.*
 
 Para trabajar con Java, solemos escuchar tres siglas importantes:
 *  *JDK (Java Development Kit): El kit de herramientas necesario para escribir y compilar programas.*
