@@ -40,6 +40,13 @@
 * 🟦*Rectángulo (Proceso): Representa cualquier operación lógica o matemática (por ejemplo: Suma = A + B).*
 * 🔶*Rombo (Decisión): Representa una condición. Tiene una entrada y dos salidas posibles: Sí o No (Verdadero o Falso).*
 * ⬇️*Flechas (Líneas de flujo): Indican la dirección del proceso.*
+  
+### 📝Ejemplo:
+<img width="854" height="686" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/fde0548f-951a-42ae-8fb5-bee56318042b" />
+
+
+
+  
  
 
 
