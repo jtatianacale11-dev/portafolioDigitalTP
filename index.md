@@ -1,4 +1,18 @@
-# Teoría de la Programación
-## Unidad 1
-## Unidad 2
-## Unidad 3
+# ** PORTAFOLIO DIGITAL DE APRENDIZAJE DE TEORÍA DE LA PROGRAMACIÓN**  
+### 📘**TEORIA DE LA PROGRAMACIÓN**  
+
+## 📚 Unidad1
+## **📅 CICLO 1** 
+👩‍🏫**Docente** *Ing. Lissette Geoconda López Faicán, PhD*
+✍️**Autor:** *Josselyn Tatiana Cale Cale*  
+📅**Fecha:** * Abril 2026 - Junio 26*  
+📍**Institución:** UNIVERSIDAD NACIONAL DE LOJA*
+
+[Ir a Portafolio→](portafolio.md)
+
+
+</div>
+
+## 📚 Unidad2
+## 📚 Unidad3
+
