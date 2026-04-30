@@ -66,25 +66,18 @@ Sus características principales:
 
 ### JAVA
 <img width="179" height="198" alt="image" src="https://github.com/user-attachments/assets/f060fe03-9168-4481-8f97-22a9a0c0e2ce" />
-💬Java es un lenguaje de programación de alto nivel y una plataforma informática ampliamente utilizada en el mundo del desarrollo de software. Fue creado originalmente por Sun Microsystems (ahora propiedad de Oracle) en 1995.
-Su lema principal es "Escribe una vez, ejecútalo en cualquier lugar" (Write Once, Run Anywhere), lo que significa que el código compilado de Java puede ejecutarse en cualquier dispositivo que tenga instalada la Máquina Virtual de Java (JVM).
-### Características Principales
-* Orientado a Objetos (POO): Todo en Java se organiza en torno a "objetos" y "clases", lo que facilita la reutilización de código y la creación de sistemas complejos de forma ordenada.
-* Independencia de la Plataforma: Gracias a que el código se traduce a un formato intermedio llamado bytecode, funciona igual en Windows, Linux o macOS.
-* Seguro y Robusto: Cuenta con un sistema de gestión de memoria automático conocido como Garbage Collector (recolector de basura), que ayuda a prevenir errores comunes de programación y fugas de memoria.
-* Multihilo: Permite ejecutar varias tareas de forma simultánea dentro de un mismo programa, mejorando el rendimiento en aplicaciones interactivas.
-¿Para qué se utiliza?
-Java es sumamente versátil y se encuentra en casi todas partes:
-1.	Aplicaciones Móviles: Es el lenguaje base histórico para el desarrollo de aplicaciones en Android.
-2.	Sistemas Empresariales: Muchas instituciones bancarias y grandes corporaciones lo usan para gestionar sus bases de datos y procesos internos por su estabilidad.
-3.	Aplicaciones Web: Se utiliza en el "lado del servidor" (backend) para sitios que manejan un alto volumen de tráfico.
-4.	Internet de las Cosas (IoT): Está presente en dispositivos inteligentes, desde electrodomésticos hasta sistemas de control industrial.
-5.	Videojuegos: Un ejemplo muy famoso de un juego desarrollado originalmente en Java es Minecraft.
-Componentes Clave
+💬Java es un lenguaje de programación de alto nivel y una plataforma informática ampliamente utilizada en el mundo del desarrollo de software. Fue creado originalmente por Sun Microsystems en 1995.
+
+### *Características Principales*
+*✍️ *Orientado a Objetos (POO): Todo en Java se organiza en torno a "objetos" y "clases", lo que facilita la reutilización de código y la creación de sistemas complejos de forma ordenada.*
+*✍️ *Independencia de la Plataforma: Gracias a que el código se traduce a un formato intermedio llamado bytecode, funciona igual en Windows, Linux o macOS.*
+*✍️ *Seguro y Robusto: Cuenta con un sistema de gestión de memoria automático conocido como Garbage Collector (recolector de basura), que ayuda a prevenir errores comunes de programación y fugas de memoria.*
+*✍️ *Multihilo: Permite ejecutar varias tareas de forma simultánea dentro de un mismo programa, mejorando el rendimiento en aplicaciones interactivas.*
+
 Para trabajar con Java, solemos escuchar tres siglas importantes:
-* JDK (Java Development Kit): El kit de herramientas necesario para escribir y compilar programas.
-* JRE (Java Runtime Environment): El entorno necesario para ejecutar los programas ya creados.
-* JVM (Java Virtual Machine): El intérprete que traduce el código para que la computadora lo entienda.
+*  *JDK (Java Development Kit): El kit de herramientas necesario para escribir y compilar programas.*
+*  *JRE (Java Runtime Environment): El entorno necesario para ejecutar los programas ya creados.*
+*  *JVM (Java Virtual Machine): El intérprete que traduce el código para que la computadora lo entienda.*
 
 
 ## Python
