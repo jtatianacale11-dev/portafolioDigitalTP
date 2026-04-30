@@ -91,10 +91,27 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 * 🖋️ *Sintaxis Sencilla: No utiliza llaves {} para definir bloques de código, sino que emplea la sangría (indentación) obligatoria, lo que fuerza a escribir código limpio.*
 * 🖋️ *Lenguaje Interpretado: El código se ejecuta línea por línea, lo que facilita enormemente la depuración y el aprendizaje.*
 * 🖋️ *Multiplataforma: Puedes escribir un programa en una computadora y ejecutarlo en cualquier otra (Windows, Mac, Linux) sin cambios.*
-*🖋️  *Gran Ecosistema: Tiene una enorme cantidad de librerías y frameworks gratuitos que permiten hacer casi cualquier cosa sin empezar desde cero.*
+* 🖋️ *Gran Ecosistema: Tiene una enorme cantidad de librerías y frameworks gratuitos que permiten hacer casi cualquier cosa sin empezar desde cero.*
 
 ## ✅ Programación por bloques
- 💬
+ 💬La programación por bloques es una forma de programar que permite crear software uniendo piezas visuales en lugar de escribir código basado en texto. Es como jugar con piezas de LEGO: cada bloque representa una instrucción, un evento o una función específica.
+Este método se basa en el concepto de "Drag and Drop" (arrastrar y soltar), lo que elimina la posibilidad de cometer errores de sintaxis (como olvidar un punto y coma o un paréntesis), facilitando el aprendizaje de la lógica detrás del código.
+Cómo funciona en lugar de escribir líneas complejas como if (x > 10) { ... }, seleccionas un bloque con la etiqueta "si... entonces" y lo encajas con un bloque de condición. Los bloques tienen formas diferentes (como muescas o salientes) que solo permiten conectarlos si la lógica es coherente.
+
+####  *Características Principales:*
+
+*  *Enfoque en la Lógica: El usuario se concentra en qué quiere que haga el programa, no en cómo se escribe correctamente.*
+*  *Visual y Atractivo: Al ser colorido y gráfico, es mucho más amigable para principiantes y niños.*
+*  *Retroalimentación Instantánea: La mayoría de estas plataformas permiten ver el resultado de las acciones de inmediato (por ejemplo, mover un personaje en la pantalla).*
+*  *Sin Errores de Escritura: Al no escribir texto, no hay fallos por errores ortográficos o de puntuación.*
+
+
+
+
+
+
+
+ 
 
 
 
