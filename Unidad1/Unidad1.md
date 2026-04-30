@@ -44,20 +44,16 @@
 ### 📝Ejemplo:
 <img width="854" height="686" alt="Captura de pantalla (73)" src="https://github.com/user-attachments/assets/fde0548f-951a-42ae-8fb5-bee56318042b" />
 
+## 📝 Prubeas de escritorio
+💬Es un proceso manual donde sigues paso a paso la lógica de tu algoritmo o diagrama de flujo con datos reales para verificar si el resultado es el correcto y ayudan a detectar errores en la lógica antes de pasar el código a la computadora.
+| Base    | Altura   | area <- (base*altura)/2         | Imprime |
+|---------|----------|---------------------------------|---------|
+|    12   |    8     |  area =( 12*8)/2                |  48     |   
+|     6   |    4     |  area =( 6*4)/2                 |  12     | 
 
 
-  
- 
 
-
-
- 
-
-## ✅ Prubeas de escritorio
-
-> 💬
-
-## 📝 lenguajes de programación 
+##  Lenguajes de programación 
 
 
 ## ✅ Ejecución del Programa
