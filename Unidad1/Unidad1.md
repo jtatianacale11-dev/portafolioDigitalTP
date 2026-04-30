@@ -28,7 +28,10 @@
 -✏️*Estructurado: Aunque es flexible, mantiene una jerarquía (sangrías o identación) para mostrar qué instrucciones están dentro de otras.
     
 ### 📝Ejemplo:
-  ![Primera Imagen](./"C:\Users\DELL\Pictures\Screenshots\Captura de pantalla (72).png")
+  <img width="695" height="422" alt="Captura de pantalla (72)" src="https://github.com/user-attachments/assets/03d33e15-6a51-458a-b9de-3b7a83b5c883" />
+
+  
+
 
 
 
