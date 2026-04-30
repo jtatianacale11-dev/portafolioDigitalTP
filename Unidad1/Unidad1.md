@@ -13,18 +13,19 @@
 ---
 ## 🧩 **Temas Principales**
 ## 1. 🧾 **Algoritmo**  
-      💬Un algoritmo es una secuencia de pasos lógicos, ordenados y finitos que se siguen para resolver un problema o realizar una tarea         específica. Es la base antes de escribir cualquier código en lenguajes como C, Java o Python.Para que un algoritmo sea  efectivo,         debe cumplir con estas características:
+💬*Un algoritmo es una secuencia de pasos lógicos, ordenados y finitos que se siguen para resolver un problema o realizar una tarea específica. Es la base antes de escribir cualquier código en lenguajes como C, Java o Python.Para que un algoritmo sea  efectivo,         debe cumplir con estas características:
       
-  -📌Preciso: Cada paso debe estar claramente definido sin ambigüedades.
-  -📌Finito: Debe tener un inicio y un final (un número determinado de pasos).
-  -📌Definido: Si se sigue el mismo algoritmo varias veces con los mismos datos, siempre se debe obtener el mismo resultado.
+  -📌*Preciso: Cada paso debe estar claramente definido sin ambigüedades.
+  -📌*Finito: Debe tener un inicio y un final (un número determinado de pasos).
+  -📌*Definido: Si se sigue el mismo algoritmo varias veces con los mismos datos, siempre se debe obtener el mismo resultado.
+  
         >
 ## 2. 🔢 **Pseudocódigo**  
-   💬El pseudocódigo es una forma de escribir los pasos de un algoritmo utilizando un lenguaje muy cercano al nuestro, pero                  siguiendo una estructura lógica similar a la de un lenguaje de programación real.Se le llama "pseudo" (falso) porque no es                código que una computadora pueda ejecutar directamente, sino que sirve para que los programadores diseñen la lógica de un                 programa antes de sentarse a escribirlo en un lenguaje complejo como C, Java o Python.  
--✏️ Su función principal es facilitar la comprensión de un algoritmo.
--✏️Fácil de leer y escribir: Se usan palabras clave como Inicio, Leer, Escribir, Si-Entonces o Mientras.
--✏️Independiente del lenguaje: Un mismo pseudocódigo puede ser traducido después a cualquier lenguaje de programación.
--✏️Estructurado: Aunque es flexible, mantiene una jerarquía (sangrías o identación) para mostrar qué instrucciones están dentro de otras.
+   💬*El pseudocódigo es una forma de escribir los pasos de un algoritmo utilizando un lenguaje muy cercano al nuestro, pero                  siguiendo una estructura lógica similar a la de un lenguaje de programación real.Se le llama "pseudo" (falso) porque no es                código que una computadora pueda ejecutar directamente, sino que sirve para que los programadores diseñen la lógica de un                 programa antes de sentarse a escribirlo en un lenguaje complejo como C, Java o Python.  
+-✏️*Su función principal es facilitar la comprensión de un algoritmo.
+-✏️*Fácil de leer y escribir: Se usan palabras clave como Inicio, Leer, Escribir, Si-Entonces o Mientras.
+-✏️*Independiente del lenguaje: Un mismo pseudocódigo puede ser traducido después a cualquier lenguaje de programación.
+-✏️*Estructurado: Aunque es flexible, mantiene una jerarquía (sangrías o identación) para mostrar qué instrucciones están dentro de otras.
     
 ### 📝Ejemplo:
   <img width="404" height="124" alt="image" "C:\Users\DELL\Pictures\Screenshots\Captura de pantalla (72).png"
