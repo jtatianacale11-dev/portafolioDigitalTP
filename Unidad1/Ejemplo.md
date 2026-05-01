@@ -5,12 +5,13 @@
 ### ✅ Pseudocódigo
 
  Algoritmo areadTriangulo
- 
+     //Variables
 	// base*altura /2
 	Definir base Como Real
 	Definir altura Como Real
 	Definir area Como Real
-	
+
+	// Entrada
 	Escribir 'Ingrese la base'
 	Leer base
 	Escribir 'Ingrese la altura'
