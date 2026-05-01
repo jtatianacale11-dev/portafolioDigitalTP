@@ -129,7 +129,7 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 <img width="536" height="513" alt="image" src="https://github.com/user-attachments/assets/3fadc267-4b61-4c85-b025-a01b16d72282" />
 
 
-🔤Pseudocódigo
+# 🔤Pseudocódigo
 ```text
 Algoritmo calcular_MasaAire
 
@@ -157,10 +157,23 @@ masa = (presion * volumen) / (0.37 * (temperatura + 460));
 Escribir "La masa del aire es:",masa;
 		
 FinAlgoritmo
-...
+
+---
 
 
-● Codificación (código fuente)
+#   Codificación (código fuente)
+
+A continuación se muestra el código;
+
+
+
+
+
+
+
+
+
+
 
 # include <stdio.h>
 
@@ -183,7 +196,7 @@ printf("La masa del aire es:%.4f\n",masa);
 }
 
 
-● Validación 
+# Validación 
 
    ✅ Ejecución del Programa
 
