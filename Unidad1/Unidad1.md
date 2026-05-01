@@ -186,14 +186,15 @@ printf("La masa del aire es:%.4f\n",masa);
 ● Validación 
 
    ✅ Ejecución del Programa
-<img width="683" height="238" alt="image" src="https://github.com/user-attachments/assets/6aa4a473-b8d9-4251-bf61-01ea5971624c" />
+<img width="902" height="363" alt="image" src="https://github.com/user-attachments/assets/143e4774-9190-417a-80b2-730b64d07382" />
+
 
   
 
   ✅ Prueba de escritorio
 
 | Presion      | Volumen      | Temperatura |masa = (presion * volumen) / (0.37 * (temperatura + 460))| Imprime |
-|--------------|--------------|-----------------------------------------------------------------------|---------|
+|--------------|--------------|-------------|---------------------------------------------------------|---------|
 |     4        |     6        |    65       |masa = (4 * 6) / (0.37 * (65 + 460))                     | 0.1236  |
 |     10       |     15       |    80       |masa = (10 * 15) / (0.37 * (80 + 460))                   | 0.7508  | 
 
