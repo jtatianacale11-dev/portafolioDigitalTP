@@ -187,9 +187,12 @@ printf("La masa del aire es:%.4f\n",masa);
 
    ✅ Ejecución del Programa
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/143e4774-9..." alt="Ejecución del Programa" width="80%">
-</p>
+<img src="<img width="902" height="363" alt="image" src="https://github.com/user-attachments/assets/14aba423-1539-4479-b60d-9492c2d29131" />
+" width="700">
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b77ea6b-cf99-44fe-b9a0-b8a00de6002e" />
+ 
+
 
 
   
