@@ -133,6 +133,7 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 # 🔤Pseudocódigo
 
 Algoritmo calcular_MasaAire
+
     //Variabales
 	Definir masa Como Real
 	Definir presion Como Real
