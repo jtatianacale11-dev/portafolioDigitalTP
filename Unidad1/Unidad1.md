@@ -213,7 +213,9 @@ printf("La masa del aire es:%.4f\n",masa);
 
 
 
-## Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+## Principales dificultades y reflexión crítica en la aplicación de los contenidos.# Ejercicio
+
+
 
 
 # Ejercicio
