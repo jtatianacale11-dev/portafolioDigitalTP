@@ -133,20 +133,24 @@ Fue creado por Guido van Rossum y lanzado en 1991. Su filosofía se centra en la
 # 🔤Pseudocódigo
 
 Algoritmo calcular_MasaAire
+    //Variabales
 	Definir masa Como Real
 	Definir presion Como Real
 	Definir volumen Como Real
 	Definir temperatura Como Real
-	
+
+	//Entrada
 	Escribir "Ingrese la Presión:";
 	Leer presion
 	Escribir "Ihgrese el Volumen:"
 	Leer volumen
 	Escribir "Ingrese la Temperatura:";
 	Leer temperatura
-	
+
+	//Proceso
 	masa = (presion * volumen) / (0.37 * (temperatura + 460));
 	
+	//Salida
 	Escribir "La masa del aire es:",masa;
 	
 	
