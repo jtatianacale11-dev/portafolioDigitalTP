@@ -5,16 +5,20 @@
 ### ✅ Pseudocódigo
 
  Algoritmo areadTriangulo
+ 
 	// base*altura /2
 	Definir base Como Real
 	Definir altura Como Real
 	Definir area Como Real
+	
 	Escribir 'Ingrese la base'
 	Leer base
 	Escribir 'Ingrese la altura'
 	Leer altura
+	
 	// proceso
 	area <- (base*altura)/2
+	
 	// Salida
 	Escribir ' Area es igual: ', area
 FinAlgoritmo
