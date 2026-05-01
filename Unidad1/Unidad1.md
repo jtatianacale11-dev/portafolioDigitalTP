@@ -206,7 +206,12 @@ printf("La masa del aire es:%.4f\n",masa);
 |     10        |     15       |    80       |masa = (10 * 15) / (0.37 * (80 + 460))                   | 0.7508  | 
 
 
-## Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+##  Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+
+
+#  📝 **Ejercicio**
+
+
 
 
 
