@@ -158,7 +158,7 @@ FinAlgoritmo
 
 ### 💻Codigo en C
 
- # include <stdio.h>
+    # include <stdio.h>
 
 int main(){
     
@@ -193,11 +193,12 @@ return 0;
 
 
 # 📝Principales dificultades y reflexión crítica en la aplicación de los contenidos.
-🗯️Una de las mayores dificultades fue familiarizarme con el flujo de trabajo en GitHub y el uso del lenguaje Markdown. Al principio, estructurar correctamente las carpetas por unidades y lograr que las tablas de las pruebas de escritorio se visualizaran de forma alineada requirió varios intentos. Además, la gestión de rutas de imágenes y el uso de etiquetas HTML para ajustar el tamaño de las capturas fue un proceso de aprendizaje continuo.
-En cuanto al uso de aplicaciones de desarrollo, el desafío principal fue la transición de la lógica mental al entorno de programación (como Visual Studio Code o PSeInt). La sintaxis estricta de lenguajes como Java o Python no perdona errores de puntuación, lo que inicialmente causó frustración, pero me ayudó a desarrollar una mayor atención al detalle.
+🗯️Una de las mayores dificultades fue familiarizarme con el flujo de trabajo en GitHub y el uso del lenguaje Markdown al principio, estructurar correctamente las carpetas por unidades y lograr que las tablas de las pruebas de escritorio se visualizaran de forma alineada requirió varios intentos. Además, la gestión de rutas de imágenes y el uso de etiquetas HTML para ajustar el tamaño de las capturas fue un proceso de aprendizaje continuo.
 
 ### 📑Reflexión 
-Al implementar ejercicios con estructuras secuenciales, comprendí que la fase de análisis es incluso más importante que la codificación misma. Un error en la jerarquía de operaciones dentro de la fórmula (por ejemplo, en el cálculo de la masa con temperaturas) puede alterar completamente el resultado.
+Al implementar ejercicios con estructuras secuenciales, comprendí que la fase de análisis es incluso más importante que la codificación misma. Un error en la jerarquía de operaciones dentro de la fórmula por ejemplo, en el cálculo de la masa con temperaturas puede alterar completamente el resultado.
 La realización de la Prueba de Escritorio fue la herramienta más útil para validar mi lógica. Me permitió detectar fallos antes de ejecutar el código, ahorrando tiempo y asegurando que los resultados presentados en este portafolio sean precisos y confiables. Esta experiencia ha fortalecido mi capacidad para descomponer problemas complejos en pasos lógicos pequeños y manejables.
 
+
+🏠 [Unidad 1 ](Unidad1.md)
 
