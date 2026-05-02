@@ -55,7 +55,7 @@ Pie | Yardas | Pulgadas | Centímetros | Metros | Imprime |
 
 #### 💻Ejecución del Programa
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14d7357f-c36d-4bf1-8e85-ef63356b2968" />
+<img width="1366" height="454" alt="Captura de pantalla (102)" src="https://github.com/user-attachments/assets/d017196a-c609-4a8b-9c5a-c0954fad8c94" />
 
 
 
