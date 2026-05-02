@@ -2,6 +2,7 @@
 
 ## 📌Ejercicio en Clases 
 #### 📝 Problema
+##### 🧩 Suma de dos Numeros
 
 ### 💻Codgio en C
 
