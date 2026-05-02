@@ -41,6 +41,7 @@ FinAlgoritmo
 | *14* | $L = 2 \cdot \pi \cdot 14$ | $A = \pi \cdot 14^2$ | L: 88 / A: 616 |
 
 
+
 # 💻Codigo en C
 
     # include <stdio.h>
