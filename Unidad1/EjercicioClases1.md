@@ -6,17 +6,21 @@
 Algoritmo calcularNumeroEntero
 
 // Definición de variables
+
 Definir doble, triple, numero  Como Entero
 
 // Entrada de datos
+
 Escribir "Ingrese numero entero:"
 Leer numero
 
 // PROCESO
+
 doble <- numero * 2
 triple <- numero * 3
 
 // SALIDA
+
 Escribir "El doble del numero entero es:", doble
 Escribir "El triple del numero entero es:", triple
 
