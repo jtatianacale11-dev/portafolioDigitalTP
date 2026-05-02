@@ -24,6 +24,7 @@ triple <- numero * 3
 // SALIDA
 
 Escribir "El doble del numero entero es:", doble
+
 Escribir "El triple del numero entero es:", triple
 
 FinAlgoritmo
