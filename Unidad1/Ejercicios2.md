@@ -1,4 +1,5 @@
-# 🔤EJERCICIO
+#  💻*Programación en C* 
+## 🔤EJERCICIO
 
 🗯️En una concesionaria de vehículos se realizaron tres ventas de vehículos de alta gama a 3 clientes. Cada vehículo cuesta 30000, 29000 y 33000 usd. El gerente desea saber cuál es porcentaje (comisión) que cada vendedor se llevaría, lo que le pagará a cada uno de ellos (considerando el 4% por cada vendedor) y lo que le pagará en conjunto (total).
 
