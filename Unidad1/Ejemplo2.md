@@ -3,7 +3,7 @@
 📝Calcular y visualizar la longitud de la circunferencia y el área de un círculo de radio dado.
 
 
-# ✅ Pseudocódigo
+# ✅ Pseudocódigo 
 
 Algoritmo  calcular_logitudArea
 
