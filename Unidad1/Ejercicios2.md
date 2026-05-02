@@ -43,15 +43,16 @@ FinAlgoritmo
 
 # 📊 Pruebas de Escritorio
 
-| Variable | Valor Inicial | Operación | Resultado |
+| Variable | Descripción | Operación / Proceso | Resultado |
 | :--- | :--- | :--- | :--- |
-| *venta1* | 30000 | - | 30000 |
-| *venta2* | 29000 | - | 29000 |
-| *venta3* | 33000 | - | 33000 |
-| *comision1* | 0 | $30000 \cdot 0.04$ | *1200* |
-| *comision2* | 0 | $29000 \cdot 0.04$ | *1160* |
-| *comision3* | 0 | $33000 \cdot 0.04$ | *1320* |
-| *totalConjunto* | 0 | $1200 + 1160 + 1320$ | *3680* |
+| venta1 | Venta Vehículo A | Valor constante | *30,000* |
+| venta2 | Venta Vehículo B | Valor constante | *29,000* |
+| venta3 | Venta Vehículo C | Valor constante | *33,000* |
+| tasa | Porcentaje Comisión | $4 / 100$ | *0.04* |
+| comision1 | Pago Vendedor 1 | $30,000 \times 0.04$ | *1,200* |
+| comision2 | Pago Vendedor 2 | $29,000 \times 0.04$ | *1,160* |
+| comision3 | Pago Vendedor 3 | $33,000 \times 0.04$ | *1,320* |
+| *total* | *Gasto Total Empresa* | $1,200 + 1,160 + 1,320$ | *3,680* |
 
 
 # 💻Codigo en C
