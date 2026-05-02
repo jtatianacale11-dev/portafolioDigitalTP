@@ -50,10 +50,12 @@ Pie | Yardas | Pulgadas | Centímetros | Metros | Imprime |
 
 #### 💻Codgio en C
 
-<
+<img width="1101" height="620" alt="Captura de pantalla (101)" src="https://github.com/user-attachments/assets/7c5161e9-bb0e-49ff-81a7-0ae4d6af90da" />
+
 
 #### 💻Ejecución del Programa
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14d7357f-c36d-4bf1-8e85-ef63356b2968" />
 
 
 
