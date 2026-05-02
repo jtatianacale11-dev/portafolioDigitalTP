@@ -5,6 +5,7 @@
 # ✅ Pseudocódigo
 
 Algoritmo  calcular_logitudArea
+
 	//Variables
 	Definir radio Como Real
 	Definir logitud Como Real
