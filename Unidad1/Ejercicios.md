@@ -5,12 +5,15 @@ d= ((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2
 
 # 📝 Pseudocódigo
 Algoritmo CalcularDistancia
+
 		// Definición de variables
+		
 		Definir x1, y1, x2, y2, distancia Como Real
+		
+		// Entrada de datos
 		
 		Escribir "Calcular la distancia entre dos puntos p1,p2:"
 		
-		// Entrada de datos
 		Escribir "Ingrese X1:"
 		Leer x1
 		Escribir "Ingrese X2:"
