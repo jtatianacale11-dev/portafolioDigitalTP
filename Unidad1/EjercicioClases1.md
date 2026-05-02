@@ -17,6 +17,7 @@ Leer numero
 // PROCESO
 
 doble <- numero * 2
+
 triple <- numero * 3
 
 // SALIDA
