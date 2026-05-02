@@ -1,54 +1,60 @@
 # 💻*Programación en C* 
 #### 📝 Problema
-### 🧩 **Escribir un programa que lea un número entero y a continuación, visualice su doble y su triple.**
+### 🧩 **Escribir un programa para convertir una medida dada en pies a sus equivalentes en: a) yardas; b) pulgadas; c) centímetros; y d) metro. (1 pie: 12 pulgadas, 1 yarda= 3 pies, 1 pulgada= 2.54 cm, 1 metro= 100 cm). Leer el número de pies e imprimir el número de yardas, pies, pulgadas, centímetros y metros.**
+
 #### 🔤Pseudocódigo 
 
-Algoritmo calcularNumeroEntero
+Algoritmo medida_pie
+	
+    // Variables
+    DEFINIR pie, yardas, pulgadas, centimetros, metros COMO REAL
+	
+    // Entrada
+	
+    ESCRIBIR "Ingrese la medida en pie:"
+    LEER pie
+	
+    // Proceso
+	
+    yardas <- pie / 3
+    pulgadas <- pie * 12
+    centimetros <- pulgadas * 2.54
+    metros <- centimetros / 100
+	
+    // Salida
+	
+    ESCRIBIR "La medida de pie en yardas es: ", yardas
+    ESCRIBIR "La medida de pie en pulgadas es: ", pulgadas
+    ESCRIBIR "La medida de pie en centímetros es: ", centimetros
+    ESCRIBIR "La medida de pie en metros es: ", metros
 
-// Definición de variables
-
-Definir doble, triple, numero  Como Entero
-
-// Entrada de datos
-
-Escribir "Ingrese numero entero:"
-
-Leer numero
-
-// PROCESO
-
-doble <- numero * 2
-
-triple <- numero * 3
-
-// SALIDA
-
-Escribir "El doble del numero entero es:", doble
-
-Escribir "El triple del numero entero es:", triple
 
 FinAlgoritmo
+
 	
 
 #### 🧩 Diagrama de Flujo
 
-<img width="664" height="675" alt="Captura de pantalla (96)" src="https://github.com/user-attachments/assets/fb364630-217e-4c25-9b27-202407fd48d9" />
+<img width="488" height="694" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/5f19f29b-c616-4ec6-a5f3-9ad514b43288" />
+
+
 
 
 #### 📝 Pruebas de Escritorio
-| Numero | Doble | Triple | Imprime Doble, Triple |
-| :---:  | :---: | :---:  | :-------------------- |
-|   6    |  12   |  18    | El doble es: 12, El triple es: 18 |
-|   4    |   8   |  12    | El doble es: 8, El triple es: 12  |
+
+Pie | Yardas | Pulgadas | Centímetros | Metros | Imprime |
+|:---:|:------:|:--------:|:-----------:|:------:|:--------|
+| 35  | 11.67  | 420.00   | 1066.80     | 10.67  | Yardas: 11.67, Pulgadas: 420.00, Centímetros: 1066.80, Metros: 10.67 |
+| 25  | 8.33   | 300.00   | 762.00      | 7.62   | Yardas: 8.33, Pulgadas: 300.00, Centímetros: 762.00, Metros: 7.62 |
+| 37  | 12.33  | 444.00   | 1127.76     | 11.28  | Yardas: 12.33, Pulgadas: 444.00, Centímetros: 1127.76, Metros: 11.28 |
 
 #### 💻Codgio en C
 
-<img width="1366" height="592" alt="Captura de pantalla (97)" src="https://github.com/user-attachments/assets/7c0b5ac0-2356-4b60-8f83-c2504f6c023d" />
-
+<
 
 #### 💻Ejecución del Programa
 
-<img width="1366" height="402" alt="Captura de pantalla (98)" src="https://github.com/user-attachments/assets/083c4e21-4638-4449-bfaf-f88854a9fd83" />
+
 
 
 🏠 [Unidad 1 ](Unidad1.md)
