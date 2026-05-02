@@ -1,4 +1,4 @@
-# 🧠 Ejemplo 1
+# 🧠 Ejemplo 2
 📝Calcular y visualizar la longitud de la circunferencia y el área de un círculo de radio dado.
 
 
@@ -41,23 +41,41 @@ FinAlgoritmo
 
 # 💻Codigo en C
 
-#include <stdio.h>
+    # include <stdio.h>
 
 int main(){
+    
+    float radio,longitud,area;
+    const float PI = 3.14159;
 
-float base,altura,area;
+    printf ("Ingrese el radio del circulo:");
+    scanf("%f",&radio);
 
-printf("Ingrese la base:");
-scanf("%f",&base);
+    longitud = 2 * PI * radio;
+	area =  PI * radio * 2;
 
-printf("Ingrese la altura:");
-scanf("%f",&altura);
+    printf("La logitud del radio del circulo es:%f\n", longitud);
+	printf("El area del radio del circulo es:%f\n",  area);
+ 
 
-area =(base*altura)/2;
-
-printf("Area es igual:%.2f\n",area);
-
-return 0;
+    return 0;
 }
 
 # 💻Ejecución del Programa
+
+<img width="1142" height="441" alt="image" src="https://github.com/user-attachments/assets/dabe4ca0-12ef-4593-9964-aec93dc1aa0d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
