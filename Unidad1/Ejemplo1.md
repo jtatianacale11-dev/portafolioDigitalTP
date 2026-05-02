@@ -1,4 +1,5 @@
-# 🧠 Ejemplo 2
+# 💻*Programación en C* 
+## 🧠 Ejemplo 2
 📝Calcular y visualizar la longitud de la circunferencia y el área de un círculo de radio dado.
 
 
