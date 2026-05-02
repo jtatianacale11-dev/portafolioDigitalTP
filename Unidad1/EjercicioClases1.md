@@ -12,6 +12,7 @@ Definir doble, triple, numero  Como Entero
 // Entrada de datos
 
 Escribir "Ingrese numero entero:"
+
 Leer numero
 
 // PROCESO
