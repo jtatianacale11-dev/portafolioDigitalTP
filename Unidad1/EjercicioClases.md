@@ -1,5 +1,5 @@
 # 💻*Programación en C* 
-# 📌Ejercicio en Clases 
+### 📌Ejercicio en Clases 
 #### 📝 Problema
 ##### 🧩 Hola Mundo
 
