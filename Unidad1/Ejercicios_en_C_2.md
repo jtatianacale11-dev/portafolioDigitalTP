@@ -42,7 +42,7 @@ FinAlgoritmo
 <img width="752" height="695" alt="Captura de pantalla (89)" src="https://github.com/user-attachments/assets/f8469b82-a048-4d84-9caf-91e83a53e118" />
 
 
-# 📊 Pruebas de Escritorio
+# 📊 Prueba de Escritorio
 
 | Variable | Descripción | Operación / Proceso | Resultado |
 | :---     | :---        | :---                | :---      |
