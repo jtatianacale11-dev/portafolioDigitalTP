@@ -40,7 +40,7 @@ FinAlgoritmo
 
 
 
-#### 📝 Pruebas de Escritorio
+#### 📝 Prueba de Escritorio
 
 Pie | Yardas | Pulgadas | Centímetros | Metros | Imprime |
 |:---:|:------:|:--------:|:-----------:|:------:|:--------|
