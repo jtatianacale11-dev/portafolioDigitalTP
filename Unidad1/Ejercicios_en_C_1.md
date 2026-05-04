@@ -43,7 +43,7 @@ FinAlgoritmo
 
 
 
-# 📝 Pruebas de Escritorio
+# 📝 Prueba de Escritorio
 
 | x1 | x2 | y1 | y2 | Operación ($d = \sqrt{(x_1-x_2)^2 + (y_2-y_1)^2}$) | Imprime (Pantalla) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
