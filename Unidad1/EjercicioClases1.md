@@ -35,7 +35,7 @@ FinAlgoritmo
 <img width="664" height="675" alt="Captura de pantalla (96)" src="https://github.com/user-attachments/assets/fb364630-217e-4c25-9b27-202407fd48d9" />
 
 
-#### 📝 Pruebas de Escritorio
+#### 📝 Prueba de Escritorio
 | Numero | Doble | Triple | Imprime Doble, Triple |
 | :---:  | :---: | :---:  | :-------------------- |
 |   6    |  12   |  18    | El doble es: 12, El triple es: 18 |
