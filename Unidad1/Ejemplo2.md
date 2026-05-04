@@ -32,7 +32,7 @@ FinAlgoritmo
 
 <img width="827" height="665" alt="Captura de pantalla (84)" src="https://github.com/user-attachments/assets/1f815af1-f0b5-4f1b-9217-0c5dd8b873e1" />
 
-# 📝 Pruebas de Escritorio
+## 📝 Prueba de Escritorio
 
 | Radio (r) | Longitud ($L = 2 \cdot \pi \cdot r$) | Área ($A = \pi \cdot r^2$) | Imprime (Pantalla) |
 | :--- | :--- | :--- | :--- |
