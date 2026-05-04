@@ -45,11 +45,11 @@ FinAlgoritmo
 # 📊 Pruebas de Escritorio
 
 | Variable | Descripción | Operación / Proceso | Resultado |
-| :--- | :--- | :--- | :--- |
-| venta1 | Venta Vehículo A | Valor constante | *30,000* |
-| venta2 | Venta Vehículo B | Valor constante | *29,000* |
-| venta3 | Venta Vehículo C | Valor constante | *33,000* |
-| tasa | Porcentaje Comisión | $4 / 100$ | *0.04* |
+| :---     | :---        | :---                | :---      |
+| venta1   | Venta Vehículo A | Valor constante | *30,000* |
+| venta2   | Venta Vehículo B | Valor constante | *29,000* |
+| venta3   | Venta Vehículo C | Valor constante | *33,000* |
+| tasa     | Porcentaje Comisión | $4 / 100$ | *0.04* |
 | comision1 | Pago Vendedor 1 | $30,000 \times 0.04$ | *1,200* |
 | comision2 | Pago Vendedor 2 | $29,000 \times 0.04$ | *1,160* |
 | comision3 | Pago Vendedor 3 | $33,000 \times 0.04$ | *1,320* |
