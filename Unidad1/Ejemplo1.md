@@ -32,7 +32,7 @@ FinAlgoritmo
 
 
 
-### 📝 Pruebas de Escritorio
+### 📝 Prueba de Escritorio
 
 | Base | Altura | Proceso: area = (base * altura) / 2 | Imprime |
 | :--- | :---   | :---                                | :---    |
