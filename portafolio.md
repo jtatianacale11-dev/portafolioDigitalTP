@@ -6,7 +6,7 @@
 ### 📚 Unidad1 – Fundamentos de Algoritmos y Programas. 
 📖 *Conceptos básicos, tipos de datos, algoritmos y estructuras iniciales.*
 
-[Ir a Unidad1→](Unidad1.md)
+[Ir a Unidad1→](Unidad1/Unidad1.md)
 
 ---
 
