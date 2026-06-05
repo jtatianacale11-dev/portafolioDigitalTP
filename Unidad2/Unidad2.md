@@ -11,39 +11,39 @@
 - 🧮 Identificar los tipos de datos, variables y operadores en C.  
 - 🔤 Manipular cadenas de caracteres utilizando funciones basicas de la biblioteca estándar `<string.h>`.  
 
-*🧮Estructuras condicionales*
+# *🧮Estructuras condicionales*
 (tipos y su estructura en diagrama de flujo y en
 pseudocódigo)
 
-*🔤Estructuras repetitivas *
+# *🔤Estructuras repetitivas *
 (tipos y sus estructura en diagrama de flujo y en
 pseudocódigo)
 
-*🧩Ejercicio con estructura condicional y
+# *🧩Ejercicio con estructura condicional y
 repetitiva* (lenguaje dado en clase).
 
 
-*🗯️Planteamiento de problema*
+# *🗯️Planteamiento de problema*
 
 
-*📝Análisis del problema*
+# *📝Análisis del problema*
 
 
-*✍️Diseño del algoritmo* 
-
-
-
-*💻Codificación * (código fuente)
+# *✍️Diseño del algoritmo* 
 
 
 
-
-*💡 Validación* (prueba de escritorio)
+# *💻Codificación * (código fuente)
 
 
 
 
-*📌Principales dificultades y reflexión crítica
+# *💡 Validación* (prueba de escritorio)
+
+
+
+
+# *📌Principales dificultades y reflexión crítica
 en la aplicación de los contenidos.*
 
 
