@@ -1,5 +1,5 @@
 # 📘 Unidad 2
-## 💻Fundamentos de Algoritmos y Programas
+## 💻Unidad 2: Estructuras Algorítmicas de Control
 
 > 🧭 *Comprender los principios básicos de la programación estructurada en C y desarrollar el pensamiento lógico necesario para resolver problemas mediante algoritmos.* 
 
