@@ -13,9 +13,6 @@
 ## 📚 Unidad2 - Estructuras Algorítmicas de Control
 📖*Estructuras Algorítmicas Condicionales.*
 
-
-## Bibliografia
-
 📖*Estructuras Algorítmicas Repetitivas.*
 
 [Ir a Unidad2→]
@@ -23,3 +20,10 @@
 ---
 
 ## 📚 Unidad3
+
+
+
+
+
+
+## Bibliografia
