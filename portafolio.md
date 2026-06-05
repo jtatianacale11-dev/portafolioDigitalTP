@@ -15,7 +15,7 @@
 
 📖*Estructuras Algorítmicas Repetitivas.*
 
-[Ir a Unidad2→]
+[Ir a Unidad2→](Unidad2/Unidad2.md)
 
 ---
 
