@@ -11,15 +11,15 @@
 - 🧮 Identificar los tipos de datos, variables y operadores en C.  
 - 🔤 Manipular cadenas de caracteres utilizando funciones basicas de la biblioteca estándar `<string.h>`.  
 
-# *🧮Estructuras condicionales*
+##   *🧮Estructuras condicionales*
 (tipos y su estructura en diagrama de flujo y en
 pseudocódigo)
 
-# *🔤Estructuras repetitivas *
+##   *🔤Estructuras repetitivas *
 (tipos y sus estructura en diagrama de flujo y en
 pseudocódigo)
 
-# *🧩Ejercicio con estructura condicional y
+##   *🧩Ejercicio con estructura condicional y
 repetitiva* (lenguaje dado en clase).
 
 
