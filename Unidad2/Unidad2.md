@@ -1,23 +1,84 @@
 # 📘 Unidad 2
 ## 💻Unidad 2: Estructuras Algorítmicas de Control
-
-> 🧭 *Comprender los principios básicos de la programación estructurada en C y desarrollar el pensamiento lógico necesario para resolver problemas mediante algoritmos.* 
+ 📚 *Comprender los principios de las estructuras condicionales y repetitivas en C, desarrollando el pensamiento lógico necesario para controlar el flujo de los programas y resolver problemas mediante algoritmos*
 
 ---
 
-## 🎯 **Objetivos de la Unidad**
-- 💡 Comprender los conceptos básicos del lenguaje C.  
-- 🧠 Desarrollar el pensamiento lógico y estructurado.  
-- 🧮 Identificar los tipos de datos, variables y operadores en C.  
-- 🔤 Manipular cadenas de caracteres utilizando funciones basicas de la biblioteca estándar `<string.h>`.  
+## 🎯Objetivos de la unidad 
+### 🎯Estructuras Algorítmicas Condicionales
+
+- ✅ Condicional simple: Si … Entonces (if)
+- 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
+- 📂 Condicional múltiple: En caso de … (swich/case)
+- 🧩 Anidamiento de condicionales
+
+### 🎯Estructuras Algorítmicas Repetitivas
+
+- 🔁 Para (for)
+- 🔄 Mientras (while)
+- ⏳ Hacer … Mientras (do-while)
+- 🧩 Anidamiento de bucles
+
+## 🧩 **Temas Principales**
 
 ##   🧮*Estructuras condicionales*
 (tipos y su estructura en diagrama de flujo y en
 pseudocódigo)
 
+- ### ✅ Condicional simple: Si … Entonces (if)
+Es una estructura de control que permite al programa tomar una decisión: ejecutar un bloque de código solo si se cumple una condición específica (es decir, si el resultado de la condición es verdadero).
+Si la condición es falsa, el programa simplemente ignora ese bloque y continúa con la siguiente instrucción.
+
+Estructura en diagrama de flujo
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/834df122-3690-4dee-b67e-0710429e068f" />
+
+Pseudocódigo
+
+
+
+
+
+- ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
+
+
+
+ - ### 📂 Condicional múltiple: En caso de … (swich/case)
+
+
+
+
+- ### 🧩 Anidamiento de condicionales
+
+
+
 ##   🔤*Estructuras repetitivas *
 (tipos y sus estructura en diagrama de flujo y en
 pseudocódigo)
+
+- ### 🔁 Para (for)
+
+
+
+
+- ### 🔄 Mientras (while)
+
+
+
+
+
+
+- ### ⏳ Hacer … Mientras (do-while)
+
+
+
+
+
+- ### 🧩 Anidamiento de bucles
+
+
+
+
 
 ##   🧩*Ejercicio con estructura condicional y repetitiva* (lenguaje dado en clase).
 
