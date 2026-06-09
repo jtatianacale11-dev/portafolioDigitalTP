@@ -18,6 +18,8 @@
 - 🔄 Mientras (while)
 - ⏳ Hacer … Mientras (do-while)
 - 🧩 Anidamiento de bucles
+- 
+----
 
 ## 🧩 **Temas Principales**
 
@@ -29,16 +31,28 @@ pseudocódigo)
 Es una estructura de control que permite al programa tomar una decisión: ejecutar un bloque de código solo si se cumple una condición específica (es decir, si el resultado de la condición es verdadero).
 Si la condición es falsa, el programa simplemente ignora ese bloque y continúa con la siguiente instrucción.
 
-Estructura en diagrama de flujo
+#### Estructura en diagrama de flujo
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/834df122-3690-4dee-b67e-0710429e068f" />
 
-Pseudocódigo
+#### Pseudocódigo
+
+Algoritmo notaUnidad
+    Definir nota Como Real
+    
+    // Entrada de datos
+    Escribir "Ingrese la nota:"
+    Leer nota
+    
+    // Estructura Condicional Simple 
+    Si nota >= 7 Entonces
+        Escribir "¡Felicidades, has aprobado!"
+    FinSi
+    
+FinAlgoritmo
 
 
-
-
-
+----
 - ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
 
 
