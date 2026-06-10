@@ -291,7 +291,11 @@ Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8
 
 ###   📝*Análisis del problema*
 
-
+| Etapa    |   Enfoque      | Implementación        | 
+|---------|----------|---------------------------------|
+|    ENTRADA   |    Implementé un filtro para evitar errores de usuario, validando que el número esté dentro del rango entre 10-20   |  Usé un ciclo ⁠do-while⁠ que obliga a repetir la solicitud mientras el dato no cumpla la condición. |    
+|     PROCESO  | Diseñé un ciclo para recorrer la serie y realizar la sumatoria acumulativa        |  Utilicé un ⁠for⁠ que decrementa desde N hasta 0, sumando el valor de ⁠j⁠ en cada iteración.                |  
+|    SALIDA  |    Mostré la serie paso a paso para verificar el funcionamiento y luego el resultado final     |  Imprimí cada valor de ⁠j⁠ durante el bucle y presenté el valor total almacenado en ⁠Suma⁠.                 |  
 
 
 
