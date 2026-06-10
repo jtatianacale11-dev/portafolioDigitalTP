@@ -261,7 +261,7 @@ El anidamiento de bucles consiste en colocar un ciclo dentro de otro ciclo. Se u
 #### Pseudocódigo
 Mostrar las tablas de multiplicar del 1 al 3.
 
-Algoritmo TablasMultiplicar
+Algoritmo TablasMultiplicar 
 	
     Definir i, j Como Entero
 	
