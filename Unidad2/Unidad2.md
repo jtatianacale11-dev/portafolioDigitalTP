@@ -315,7 +315,20 @@ Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8
 
 ###  💡 *Validación* 
 
-
+| Iteracion (j)    | Suma(Inicio:0)   | Suma + j        | Imprime |
+|---------|----------|---------------------------------|---------|
+|    11   |    0     |  0+11             |  11    |   
+|    10   |    11     |  11+ 10                |  21    | 
+|    9   |    21    |  21+ 9                |  30   |
+|    8   |    30    |  30+ 8                |  38   | 
+|    7   |    38    |  38+ 7                |  45   | 
+|    6   |    45    |  45+ 6                |  51   | 
+|    5   |    51    |  51+ 5                |  56   | 
+|    4   |    56    |  56+ 4                |  60   | 
+|    3   |    60    |  60+ 3                |  63   | 
+|    2   |    63    |  63+ 2                |  65   | 
+|    1   |    65    |  65+ 1                |  66   | 
+|    0   |    66    |  66+ 0                |  66   | 
 
 
 ## 📌*Principales dificultades y reflexión crítica en la aplicación de los contenidos.*
