@@ -17,7 +17,6 @@ Si la condición es falsa, el programa simplemente ignora ese bloque y continúa
 
 #### Pseudocódigo
 
-```
 Algoritmo notaUnidad
 
     Definir nota Como Real
@@ -32,9 +31,10 @@ Algoritmo notaUnidad
     FinSi
     
 FinAlgoritmo
-
 ----
-- ###   🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
+
+
+- ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
 El if else es una estructura condicional que permite evaluar una condición y ejecutar una acción si es verdadera, o una acción diferente si es falsa. Se utiliza cuando existen dos posibles resultados para una misma situación.
 
 #### Estructura en diagrama de flujo
@@ -287,7 +287,7 @@ Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8
 
 
 
-###   💻*Codificación * 
+### 💻*Codificación * 
 
 
 <img width="1366" height="671" alt="Captura de pantalla (176)" src="https://github.com/user-attachments/assets/24e446ec-763c-41b1-8838-5333ffe4a6e5" />
