@@ -162,57 +162,156 @@ FinAlgoritmo
 -----
 
 ##   🔤*Estructuras repetitivas *
-(tipos y sus estructura en diagrama de flujo y en
-pseudocódigo)
-
-- ### 🔁 Para (for)
-
-
-
 
 - ### 🔄 Mientras (while)
+La estructura while se utiliza cuando no se sabe exactamente cuántas veces se repetirá una acción. El ciclo continúa ejecutándose mientras la condición sea verdadera y se detiene cuando la condición se vuelve falsa.
+
+#### Estructura en diagrama de flujo
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/030d2b9c-1a4f-4752-b03b-a5e141863b3d" />
 
 
 
+#### Pseudocódigo
 
+Este programa utiliza la estructura repetitiva while para mostrar la tabla de multiplicar del 2. El ciclo comienza con i = 1 y se repite mientras i sea menor o igual a 10. En cada repetición se muestra una operación de la tabla y luego se incrementa el valor de i en 1. Cuando i supera 10, el ciclo termina.
+
+Algoritmo TablaDelDos
+	
+    Definir i Como Entero
+    i <- 1
+	
+    Mientras i <= 10 Hacer
+        Escribir "2 x ", i, " = ", 2 * i
+        i <- i + 1
+    FinMientras
+	
+FinAlgoritmo
+
+
+------
 
 
 - ### ⏳ Hacer … Mientras (do-while)
 
+La estructura repetitiva do-while es un ciclo que ejecuta un conjunto de instrucciones al menos una vez y luego verifica una condición. Si la condición es verdadera, el ciclo continúa repitiéndose; si es falsa, termina. Su principal característica es que la condición se evalúa al final del ciclo
+
+#### Estructura en diagrama de flujo
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/32c51a3e-43f0-4437-82cb-5f0a7c3896b8" />
 
 
+#### Pseudocódigo
 
+Este programa utiliza la estructura repetitiva do-while para mostrar los números del 1 al 3. Primero muestra el valor de la variable i, luego la incrementa en 1 y finalmente verifica si i es mayor que 3. Mientras no lo sea, el ciclo continúa repitiéndose. Cuando i supera 3, el programa termina.
+
+
+Algoritmo ContarHasta3
+	
+    Definir i Como Entero
+	
+    i <- 1
+	
+    Repetir
+        Escribir i
+        i <- i + 1
+    Hasta Que i > 3
+	
+FinAlgoritmo
+
+-----
+
+- ### 🔁 Para (for)
+  
+La estructura repetitiva for se utiliza cuando se conoce la cantidad de veces que se desea repetir una acción. Permite controlar el inicio, la condición y el incremento de una variable.
+
+#### Estructura en diagrama de flujo
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b58d62c3-c539-46b0-a3ca-44229b224883" />
+
+
+#### Pseudocódigo
+
+Elaborar un programa que muestre la tabla de multiplicar del número 5 desde 5 × 1 hasta 5 × 10 utilizando la estructura repetitiva for.
+
+Algoritmo TablaDelCinco
+	
+    Definir i Como Entero
+	
+    Para i <- 1 Hasta 10 Hacer
+        Escribir "5 x ", i, " = ", 5 * i
+    FinPara
+	
+FinAlgoritmo
+
+
+----
 
 - ### 🧩 Anidamiento de bucles
+El anidamiento de bucles consiste en colocar un ciclo dentro de otro ciclo. Se utiliza cuando se necesita realizar varias repeticiones dentro de cada repetición de otro ciclo. Es muy útil para trabajar con tablas, filas y columnas.
+
+
+#### Estructura en diagrama de flujo
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df41896a-04a9-4b0d-99b6-745560fbe6f8" />
+
+
+#### Pseudocódigo
+Mostrar las tablas de multiplicar del 1 al 3.
+
+Algoritmo TablasMultiplicar
+	
+    Definir i, j Como Entero
+	
+    Para i <- 1 Hasta 3 Hacer
+        Escribir "Tabla del ", i
+		
+        Para j <- 1 Hasta 5 Hacer
+            Escribir i, " x ", j, " = ", i * j
+        FinPara
+		
+    FinPara
+	
+FinAlgoritmo
+
+
+-----
+
+##   🧩*Ejercicio con estructura condicional y repetitiva*
+
+###  🗯️*Planteamiento de problema*
+
+Ejemplo: Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie. 
+
+Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8, .... ,0” y luego mostrar el resultado de la suma de 11+10+9+8+...+0=66.
+
+
+###   📝*Análisis del problema*
 
 
 
 
-
-##   🧩*Ejercicio con estructura condicional y repetitiva* (lenguaje dado en clase).
-
-
-##  🗯️*Planteamiento de problema*
-
-
-##  📝*Análisis del problema*
-
-
-##  ✍️ *Diseño del algoritmo* 
+###   ✍️ *Diseño del algoritmo* 
 
 
 
-##  💻*Codificación * (código fuente)
+###   💻*Codificación * 
 
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05335bc9-7bdc-4b96-8ec6-c8165701d54b" />
 
 
-## 💡 *Validación* (prueba de escritorio)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dd543ee2-7185-436c-b952-1e757970bb82" />
+
+
+###  💡 *Validación* 
 
 
 
 
-# 📌*Principales dificultades y reflexión crítica en la aplicación de los contenidos.*
+## 📌*Principales dificultades y reflexión crítica en la aplicación de los contenidos.*
 
 
 
