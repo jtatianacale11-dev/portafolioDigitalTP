@@ -1,27 +1,8 @@
 # 📘 Unidad 2
 ## 💻Unidad 2: Estructuras Algorítmicas de Control
  📚 *Comprender los principios de las estructuras condicionales y repetitivas en C, desarrollando el pensamiento lógico necesario para controlar el flujo de los programas y resolver problemas mediante algoritmos*
-
----
-
-## 🎯Objetivos de la unidad 
-### 🎯Estructuras Algorítmicas Condicionales
-
-- ✅ Condicional simple: Si … Entonces (if)
-- 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
-- 📂 Condicional múltiple: En caso de … (swich/case)
-- 🧩 Anidamiento de condicionales
-
-### 🎯Estructuras Algorítmicas Repetitivas
-
-- 🔁 Para (for)
-- 🔄 Mientras (while)
-- ⏳ Hacer … Mientras (do-while)
-- 🧩 Anidamiento de bucles
  
 ----
-
-## 🧩 **Temas Principales**
 
 ##   🧮*Estructuras condicionales*
 
