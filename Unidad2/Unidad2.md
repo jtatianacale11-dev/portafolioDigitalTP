@@ -288,7 +288,9 @@ Ejemplo: Ingresar un número comprendido entre 10 a 20 y guardarlo en una variab
 Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8, .... ,0” y luego mostrar el resultado de la suma de 11+10+9+8+...+0=66.
 
 
+
 ###   📝*Análisis del problema*
+
 
 
 
@@ -297,13 +299,18 @@ Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8
 
 
 
+
+
+
 ###   💻*Codificación * 
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05335bc9-7bdc-4b96-8ec6-c8165701d54b" />
+<img width="1366" height="671" alt="Captura de pantalla (176)" src="https://github.com/user-attachments/assets/24e446ec-763c-41b1-8838-5333ffe4a6e5" />
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dd543ee2-7185-436c-b952-1e757970bb82" />
+
+<img width="1366" height="504" alt="Captura de pantalla (177)" src="https://github.com/user-attachments/assets/6cc7dd8d-cd6d-45ce-9dc8-314d3f61f95e" />
+
 
 
 ###  💡 *Validación* 
