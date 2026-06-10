@@ -16,7 +16,7 @@ Si la condición es falsa, el programa simplemente ignora ese bloque y continúa
 
 
 #### Pseudocódigo
-
+´´´´
 Algoritmo notaUnidad
 
     Definir nota Como Real
@@ -31,7 +31,7 @@ Algoritmo notaUnidad
     FinSi
     
 FinAlgoritmo
-
+´´´´
 
 ----
 - ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
