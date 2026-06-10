@@ -318,7 +318,7 @@ Ejemplo: Se ingresa el número 11, entonces en pantalla mostrar: “11, 10, 9, 8
 
 ## 📌*Principales dificultades y reflexión crítica en la aplicación de los contenidos.*
 
-La mayor dificultad encontrada fue comprender la diferencia entre la estructura de control de validación (⁠do-while⁠) y la estructura de iteración (⁠for⁠). Inicialmente, el diagrama de flujo no acumulaba correctamente el valor de ⁠j⁠ en ⁠Suma⁠, lo que resultó en resultados erróneos. Mediante la depuración y la comparación del pseudocódigo con la sintaxis de C, logré entender que la variable acumuladora debe actualizarse con el valor de la variable de control (⁠Suma += j⁠) en cada iteración del bucle
+La mayor dificultad encontrada fue comprender la diferencia entre la estructura de control de validación (⁠do-while⁠) y la estructura de iteración (⁠for⁠). Inicialmente, el diagrama de flujo no acumulaba correctamente el valor de ⁠j⁠ en ⁠Suma⁠, lo que resultó en resultados erróneos. Mediante la depuración y la comparación del pseudocódigo con la sintaxis de C, logré entender que la variable acumuladora debe actualizarse con el valor de la variable de control (⁠Suma += j⁠) en cada iteración del bucle.
 
 
 
