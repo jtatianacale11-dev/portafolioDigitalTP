@@ -1,6 +1,6 @@
 # 📘 Unidad 2
 ## 💻Unidad 2: Estructuras Algorítmicas de Control
- 📚 *Comprender los principios de las estructuras condicionales y repetitivas en C, desarrollando el pensamiento lógico necesario para controlar el flujo de los programas y resolver problemas mediante algoritmos*
+ 📚 *Comprender los principios de las estructuras condicionales y repetitivas en C, desarrollando el pensamiento lógico necesario para controlar el flujo de los programas y resolver problemas mediante algoritmos.*
  
 ----
 
@@ -176,7 +176,7 @@ FinAlgoritmo
 
 - ### ⏳ Hacer … Mientras (do-while)
 
-La estructura repetitiva do-while es un ciclo que ejecuta un conjunto de instrucciones al menos una vez y luego verifica una condición. Si la condición es verdadera, el ciclo continúa repitiéndose; si es falsa, termina. Su principal característica es que la condición se evalúa al final del ciclo
+La estructura repetitiva do-while es un ciclo que ejecuta un conjunto de instrucciones al menos una vez y luego verifica una condición. Si la condición es verdadera, el ciclo continúa repitiéndose; si es falsa, termina. Su principal característica es que la condición se evalúa al final del ciclo.
 
 #### Estructura en diagrama de flujo
 
