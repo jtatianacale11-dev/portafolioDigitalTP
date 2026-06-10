@@ -142,7 +142,7 @@ FinAlgoritmo
 
 -----
 
-##   🔤*Estructuras repetitivas *
+##   🔤Estructuras repetitivas 
 
 - ### 🔄 Mientras (while)
 La estructura while se utiliza cuando no se sabe exactamente cuántas veces se repetirá una acción. El ciclo continúa ejecutándose mientras la condición sea verdadera y se detiene cuando la condición se vuelve falsa.
