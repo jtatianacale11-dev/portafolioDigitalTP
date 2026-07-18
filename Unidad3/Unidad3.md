@@ -1,7 +1,5 @@
 # 📘 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
-
-> 📚 
-
+ 
 # Programación Modular
 
 ## 📦 Conceptos básico de programación modular
@@ -15,11 +13,11 @@ Cada módulo se encarga de resolver una tarea específica y esto ofrece varias v
 
 En el paso por valor, la función recibe únicamente una copia local de los datos que le envías.
 
-- ¿Cómo funciona internamente?: Cuando se llama a la función, el sistema reserva un nuevo espacio en la memoria para las variables de la función (parámetros formales) y copia los datos de las variables originales en esos nuevos espacios.
+★¿Cómo funciona internamente?: Cuando se llama a la función, el sistema reserva un nuevo espacio en la memoria para las variables de la función (parámetros formales) y copia los datos de las variables originales en esos nuevos espacios.
 
--Aislamiento total: Existe una barrera absoluta entre la función y el programa principal. Cualquier modificación, cálculo o reasignación que sufra la variable dentro de la función muere cuando la función termina.
+★Aislamiento total: Existe una barrera absoluta entre la función y el programa principal. Cualquier modificación, cálculo o reasignación que sufra la variable dentro de la función muere cuando la función termina.
 
--¿Cuándo se usa?: Es el método por defecto cuando solo necesitas leer la información de una variable para realizar un cálculo (por ejemplo, calcular el IVA de un precio), asegurándote de que el valor original no sufra alteraciones accidentales.
+★¿Cuándo se usa?: Es el método por defecto cuando solo necesitas leer la información de una variable para realizar un cálculo (por ejemplo, calcular el IVA de un precio), asegurándote de que el valor original no sufra alteraciones accidentales.
 
 ---
 
@@ -34,13 +32,13 @@ En el paso por valor, la función recibe únicamente una copia local de los dato
 > **Definición:**
  En el paso por referencia, la función no recibe una copia, sino el acceso directo a la variable original.
 
--¿Cómo funciona internamente?: En lugar de duplicar los datos en memoria, lo que se le pasa a la función es la dirección de memoria (el "puntero" o enlace) de la variable original. La variable dentro de la función se convierte en un alias o un "nombre alternativo" para la misma casilla de memoria externa.
+★¿Cómo funciona internamente?: En lugar de duplicar los datos en memoria, lo que se le pasa a la función es la dirección de memoria (el "puntero" o enlace) de la variable original. La variable dentro de la función se convierte en un alias o un "nombre alternativo" para la misma casilla de memoria externa.
 
-Modificación directa: No hay duplicación de datos. Si la función cambia el valor de ese parámetro, está alterando directamente la memoria de la variable original del programa principal. El cambio persiste después de que la función finaliza.
+★Modificación directa: No hay duplicación de datos. Si la función cambia el valor de ese parámetro, está alterando directamente la memoria de la variable original del programa principal. El cambio persiste después de que la función finaliza.
 
-En la función: Usamos un asterisco * en el parámetro para decirle a C que vamos a recibir una dirección de memoria (un puntero).
+★En la función: Usamos un asterisco * en el parámetro para decirle a C que vamos a recibir una dirección de memoria (un puntero).
 
-En el main: Usamos el ampersand & al llamar a la función para enviarle la dirección de memoria exacta de nuestra variable (tal como haces dentro del scanf).
+★En el main: Usamos el ampersand & al llamar a la función para enviarle la dirección de memoria exacta de nuestra variable (tal como haces dentro del scanf).
 
 
 #### 🧠 Ejemplo:
