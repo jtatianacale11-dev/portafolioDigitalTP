@@ -30,8 +30,8 @@
 - Unidimensionales
 - Bidimensionales
 - Multidimensionales
-🔤 Cadenas o Strings.
 
+[Ir a Unidad3→](Unidad3/Unidad3.md)
 
 ---
 ## 🧠 **Conclusiones**  
