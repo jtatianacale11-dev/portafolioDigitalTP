@@ -26,7 +26,8 @@ En el paso por valor, la función recibe únicamente una copia local de los dato
 
 ### 🛠️Ejemplo:
 
-- <img width="1366" height="706" alt="Captura de pantalla (469)" src="https://github.com/user-attachments/assets/d3f8578c-826e-4aac-ba7e-b33657441900" />
+- <img width="800" height="690" alt="Captura de pantalla (472)" src="https://github.com/user-attachments/assets/59d637d3-2c9d-4103-9ffd-3a8f2ed3c441" />
+
 
 
 ### 📊 Paso de parámetros por referencia (con punteros)
@@ -49,9 +50,13 @@ En el main: Usamos el ampersand & al llamar a la función para enviarle la direc
 
 
 
-### ⬛ Arreglos Bidimensionales (Matrices)
+## ⬛ Arreglos 
+
+### 
 
 
+
+### Bidimensionales (Matrices)
 📝 Estructura que organiza datos en dos dimensiones: filas y columnas. 
 🧾 Conocidos comúnmente como matrices o tablas. 
 🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 
