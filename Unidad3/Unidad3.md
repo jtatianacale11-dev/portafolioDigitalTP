@@ -124,7 +124,7 @@ int matriz[2][2];
 ### Estructura básica:
 
 ```c
-int cubo[2][3][4];
+int cubo[2][2][2];
 ```
 
 ✅ **Características:**
@@ -157,4 +157,5 @@ int cubo[2][3][4];
 
 
 
-[Portafolio]()
+
+[Portafolio](portafolio.md)
