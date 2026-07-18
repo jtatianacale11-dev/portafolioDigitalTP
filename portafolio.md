@@ -22,10 +22,8 @@
 ## 📚 Unidad3 - Programación Modular y Estructuras de Datos Estáticas
 
 📚Programación Modular
-📦 Conceptos básicos de programación modular.
-🧩 Uso de módulos y funciones en la resolución de problemas.
-🔹 Estructuras de Datos Estáticas Básicas
-
+-Parámetro valor
+-Parámetro referencia
 📊 Arreglos:
 - Unidimensionales
 - Bidimensionales
@@ -49,10 +47,9 @@
 
 ### ✅ Conclusiones – UNIDAD 3
 
-> La Unidad 3 consolidó los conocimientos adquiridos mediante el diseño estructurado y la optimización de programas. Se comprendió que no solo es importante que un programa funcione, sino que también sea eficiente, legible y fácil de mantener.
+> En esta unidad aprendí a pasar de lo simple a lo complejo en la organización de datos dentro de C. Lo más notable fue entender la diferencia en las dimensiones: mientras que un arreglo unidimensional sirve para una lista lineal (como notas individuales), las matrices bidimensionales y los arreglos tridimensionales nos permiten estructurar tablas y cubos de información reales, como separar calificaciones por grupos, materias y parciales en un solo lugar.
 
-> El enfoque en la optimización permitió identificar mejoras en el uso de recursos, reducción de código redundante y aplicación de buenas prácticas de programación. Esta unidad fortaleció una visión más profesional del desarrollo de software, orientada a crear programas escalables, organizados y preparados para crecer o modificarse en el futuro.
-
+>Además, comprendí el uso fundamental de los parámetros al trabajar con funciones. Aprender a diferenciar entre el paso por valor (donde solo se envía una copia del dato) y el paso por referencia (donde se modifica directamente la variable original en memoria) es clave para controlar cómo viaja y se transforma la información a lo largo de todo el programa de forma eficiente.
 ---
 
 ## 📚 **Referencias** 
