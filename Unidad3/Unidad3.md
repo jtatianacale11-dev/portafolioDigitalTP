@@ -1,102 +1,54 @@
 # 📘 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
 
-> 📚 **Descripción:** Comprender la importancia de dividir problemas complejos en subproblemas más pequeños (módulos) y manejar colecciones de datos del mismo tipo de manera eficiente en memoria.*
-
+> 📚 **Modularidad **
 ---
-
-## 🎯 Objetivos de la unidad
-
-### 📦 Programación Modular
-
-* ✅Conceptos básicos de programación modular.
-* 🧩Uso de módulos y funciones en la resolución de problemas.
-
-### 🔹 Estructuras de Datos Estáticas
-
-* 📊 Arreglos Unidimensionales (Vectores)
-* ⬛ Arreglos Bidimensionales (Matrices)
-* 📦 Arreglos Multidimensionales
-* 🔤 Cadenas de caracteres (Strings)
-
----
-
-## 🧩 Temas Principales
-C
->📊 Arreglos Unidimensionales (Vectores)
->📝 Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 
->🧾 Se organizan contiguamente en la memoria bajo un único nombre. 
->✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 
->💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
 
 # Programación Modular
 
-## 📦 Conceptos básicos de programación modular
+## 📦 Conceptos básico de programación modular
 
-La **programación modular** es una metodología que consiste en dividir un programa grande en partes más pequeñas llamadas **módulos**.  
-Cada módulo se encarga de una tarea específica y funciona de manera independiente.
-
-Este enfoque permite que el código sea más claro, organizado y fácil de mantener, evitando programas largos y difíciles de entender.
-
-La idea principal es que cada módulo:
-- Tenga una única responsabilidad
-- Pueda reutilizarse en otros programas
-- Pueda modificarse sin afectar todo el sistema
+La modularidad es un principio de la programación que consiste en dividir un programa en partes más pequeñas llamadas módulos, funciones o procedimientos. 
+Cada módulo se encarga de resolver una tarea específica y esto ofrece varias ventajas: facilita la lectura del código, permite reutilizar funciones sin tener que reescribirlas y hace que sea mucho más sencillo encontrar y corregir errores.
 
 ---
 
-## 🧩 Uso de módulos y funciones en la resolución de problemas
+## 🧩 Paso de parámetros por valor
 
-Una **función** es un bloque de código que realiza una tarea concreta y puede ser reutilizado varias veces dentro del programa.  
-Un **módulo** agrupa funciones relacionadas que trabajan sobre un mismo objetivo.
+En el paso por valor, la función recibe únicamente una copia local de los datos que le envías.
 
-Al resolver un problema mediante módulos y funciones:
-- El problema se divide en partes pequeñas
-- Cada parte se resuelve de forma independiente
-- El programa final es más fácil de entender y depurar
+- ¿Cómo funciona internamente?: Cuando se llama a la función, el sistema reserva un nuevo espacio en la memoria para las variables de la función (parámetros formales) y copia los datos de las variables originales en esos nuevos espacios.
 
-Este enfoque mejora la lógica del programa y permite desarrollar sistemas más grandes sin aumentar la complejidad.
+-Aislamiento total: Existe una barrera absoluta entre la función y el programa principal. Cualquier modificación, cálculo o reasignación que sufra la variable dentro de la función muere cuando la función termina.
+
+-¿Cuándo se usa?: Es el método por defecto cuando solo necesitas leer la información de una variable para realizar un cálculo (por ejemplo, calcular el IVA de un precio), asegurándote de que el valor original no sufra alteraciones accidentales.
 
 ---
 
-## 🛠️ Ventajas de la programación modular
+### 🛠️Ejemplo:
 
-- Mejora la organización del código
-- Facilita el mantenimiento y la corrección de errores
-- Permite reutilizar funciones en otros proyectos
-- Reduce la complejidad de programas grandes
-- Facilita el trabajo en equipo
+- <img width="1366" height="706" alt="Captura de pantalla (469)" src="https://github.com/user-attachments/assets/d3f8578c-826e-4aac-ba7e-b33657441900" />
 
 
-Estructura básica:
-### 📊 Arreglos Unidimensionales (Vectores)
+### 📊 Paso de parámetros por referencia (con punteros)
 
-> **Definición:** Un vector es una estructura de datos **estática** que almacena una colección finita de elementos del mismo tipo (homogéneos) en posiciones de memoria **contiguas**.
+> **Definición:**
+ En el paso por referencia, la función no recibe una copia, sino el acceso directo a la variable original.
 
-#### 🧠 Concepto Lógico
-Imagina un vector como una fila de casilleros numerados en un banco.
-1.  **Nombre Único:** Toda la fila se llama igual (ej. `Calificaciones`).
-2.  **Índice:** Para abrir un casillero específico, necesitas su número (posición).
-3.  **Contenido:** Dentro de cada casillero hay un dato (valor).
-   
-C
-int edades[10]; // Arreglo de 10 enteros
-✅ Características:
+-¿Cómo funciona internamente?: En lugar de duplicar los datos en memoria, lo que se le pasa a la función es la dirección de memoria (el "puntero" o enlace) de la variable original. La variable dentro de la función se convierte en un alias o un "nombre alternativo" para la misma casilla de memoria externa.
 
-🗂️ Homogeneidad: Todos los datos deben ser del mismo tipo (int, float, etc.).
+Modificación directa: No hay duplicación de datos. Si la función cambia el valor de ese parámetro, está alterando directamente la memoria de la variable original del programa principal. El cambio persiste después de que la función finaliza.
 
-📎 Índice: Se accede mediante una posición numérica, comenzando siempre desde 0.
+En la función: Usamos un asterisco * en el parámetro para decirle a C que vamos a recibir una dirección de memoria (un puntero).
 
-📌 Tamaño Fijo: El tamaño se define al compilar y no puede cambiar.
+En el main: Usamos el ampersand & al llamar a la función para enviarle la dirección de memoria exacta de nuestra variable (tal como haces dentro del scanf).
 
-🧠 Diagrama de Flujo
 
-<img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/9923907a-9f0c-449c-bf74-ce64fa6cc483" />
+#### 🧠 Ejemplo:
+<img width="993" height="708" alt="Captura de pantalla (471)" src="https://github.com/user-attachments/assets/ec44d2fb-00e1-465c-b3e9-cf99207e3a50" />
 
-📌 Codigo en C
 
-<img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/5aa179ad-1f4d-4b17-99f5-bf311209ae72" />
 
----
+
 ### ⬛ Arreglos Bidimensionales (Matrices)
 
 
@@ -119,7 +71,6 @@ int tablero[3][3];
 
 🧠 Diagrama de Flujo
 
-<img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/8cfa3680-3cf7-4f96-8844-1b4e87cd61ff" />
 
 📌 Codigo en C
 
@@ -144,9 +95,7 @@ int cubo[3][3][3];
 
 🗂️ Requiere alta abstracción lógica.
 
-🧠 Diagrama de Flujo
 
-<img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/0e096622-4aa1-4079-ac3c-462c9029a771" />
 
 📌 Codigo en C
 
@@ -156,25 +105,7 @@ int cubo[3][3][3];
 
 ### 🔤 Cadenas o Strings
 ✅ En C, es un arreglo de caracteres (char) diseñado para almacenar texto. 
-☑️ No existe un tipo primitivo "String", es un arreglo especial. 
-💡 Funcionamiento: Es como un collar de cuentas (letras) que siempre termina con un "nudo" especial invisible: el carácter nulo \0.
-
-Estructura básica:
-
-C
-char saludo[] = "Hola";
-✅ Características:
-
-🔀 Terminador Nulo: Debe terminar con \0 para indicar el fin del texto.
-
-🏗️ Manipulación: Se usan funciones de la librería <string.h>.
-
-🗂️ Cuidado: No se pueden asignar con = después de la declaración.
-
-📌 Codigo en C
-
-<img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/4badd846-7804-44eb-a797-3bbba5e04ce9" />
-
+☑️ No existe un tipo primitivo "String", es un arreglo especial.
 ---
 
 ### ⚠️ Principales Dificultades
@@ -190,22 +121,5 @@ char saludo[] = "Hola";
 > *🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.*
 
 
-## ⚙️ACD - Aprendizaje Contacto con el Docente
-
-- ACD 1. Proyecto Académico Integrador
-- ACD 2. Control de aprendizaje sobre python
-   - 🔗 [ACD 2](ACD2.md)
-- ACD 3. Control de aprendizaje sobre modularidad y estructura de datos.
-   - 🔗 [ACD 3](ACD3.md)
-
-## 🧰 APE - Aprendizaje Práctico Experimental
-
-- APE 1. Construcción de funciones y procedimientos en un lenguaje de programación
-   - 🗂️ [APE 1.](Teoríadelaprogramación.pdf)
-
-
-## 🧰 AA - Aprendizaje Autónomo 
-- AA 1. Curso Fundamentos de Python 1. Computación UNL
-   - 🗂️ [Tarea 1](Python_Essentials_1_certificate_ricardo-ochoa-unl-edu-ec_f202b6e2-a485-4f87-a2b9-81b814eae487.pdf)
 
 [Portafolio](portafolio.md)
