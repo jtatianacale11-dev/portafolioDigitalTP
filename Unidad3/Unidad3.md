@@ -1,7 +1,6 @@
 # 📘 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
 
-> 📚 **Modularidad **
----
+> 📚 
 
 # Programación Modular
 
@@ -51,66 +50,99 @@ En el main: Usamos el ampersand & al llamar a la función para enviarle la direc
 
 
 ## ⬛ Arreglos 
+## 📌 Arreglos Unidimensionales
 
-### 
+📌 **Estructura que organiza datos en una sola dimensión (una lista).**
+
+📚 Conocidos comúnmente como vectores o listas.
+
+🔄 **Funcionamiento:** Cada elemento se almacena en una posición identificada por un índice.
+
+💡 **Uso:** Ideales para almacenar listas de datos como edades, notas o nombres.
+
+### Estructura básica:
+
+```c
+int edades[5];
+```
+
+✅ **Características:**
+
+🔹 **Acceso:** Se utiliza la sintaxis `arreglo[i]`.
+
+🔹 **Memoria:** Los elementos se almacenan de forma continua en memoria.
+
+🔹 **Recorrido:** Generalmente requiere un solo ciclo (`for`).
+
+✅ **Ejemplo:**
 
 
-
-### Bidimensionales (Matrices)
-📝 Estructura que organiza datos en dos dimensiones: filas y columnas. 
-🧾 Conocidos comúnmente como matrices o tablas. 
-🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 
-💡 Uso: Ideales para tableros de juego, mapas o relaciones matemáticas.
-
-Estructura básica:
-
-C
-int tablero[3][3];
-✅ Características:
-
-🔀 Acceso: Se usa la sintaxis matriz[i][j].
-
-🏗️ Memoria: Se guardan linealmente en memoria, fila tras fila.
-
-📖 Recorrido: Usualmente requiere dos ciclos for anidados.
-
-🧠 Diagrama de Flujo
-
-
-📌 Codigo en C
-
-<img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
 ---
 
-### 📦 Arreglos Multidimensionales
-✅ : Arreglos con tres o más dimensiones. 
-☑️ Es una extensión lógica de las matrices. 
-💡 Analogía: Si una matriz es una hoja, un arreglo 3D es un libro (muchas hojas), o un edificio.
+## 📌 Arreglos Bidimensionales (Matrices)
 
-Estructura básica:
+📌 **Estructura que organiza datos en dos dimensiones: filas y columnas.**
 
-C
-int cubo[3][3][3];
-✅ Características:
+📚 Conocidos comúnmente como matrices o tablas.
 
-🔀 Requiere un índice por cada dimensión.
+🔄 **Funcionamiento:** Similar a una hoja de cálculo o una sala de cine (Fila, Columna).
 
-🏗️ El consumo de memoria crece exponencialmente.
+💡 **Uso:** Ideales para representar tablas, tableros o relaciones matemáticas.
 
-🗂️ Requiere alta abstracción lógica.
+### Estructura básica:
 
+```c
+int matriz[3][3];
+```
 
+✅ **Características:**
 
-📌 Codigo en C
+🔹 **Acceso:** Se utiliza la sintaxis `matriz[i][j]`.
 
-<img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
+🔹 **Memoria:** Se almacenan linealmente en memoria, fila por fila.
+
+🔹 **Recorrido:** Generalmente requiere dos ciclos anidados (`for`).
+
+✅ **Ejemplo:**
 
 ---
 
-### 🔤 Cadenas o Strings
-✅ En C, es un arreglo de caracteres (char) diseñado para almacenar texto. 
-☑️ No existe un tipo primitivo "String", es un arreglo especial.
+## 📌 Arreglos Tridimensionales
+
+📌 **Estructura que organiza datos en tres dimensiones: capas , filas y columnas.**
+
+📚 Conocidos como matrices tridimensionales o cubos de datos.
+
+🔄 **Funcionamiento:** Es un conjunto de matrices bidimensionales.
+
+💡 **Uso:** Ideales para representar imágenes, videojuegos, datos científicos o información por tiempo.
+
+### Estructura básica:
+
+```c
+int cubo[2][3][4];
+```
+
+✅ **Características:**
+
+🔹 **Acceso:** Se utiliza la sintaxis `cubo[i][j][k]`.
+
+🔹 **Memoria:** Los datos se almacenan de forma continua en memoria.
+
+🔹 **Recorrido:** Generalmente requiere tres ciclos anidados (`for`).
+
+✅ **Ejemplo:**
+
+
+
+
+
+---
+
+
+
+### 🔤
 ---
 
 ### ⚠️ Principales Dificultades
