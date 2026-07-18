@@ -1,6 +1,6 @@
 # 📘 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
  
-# Programación Modular
+# 💻 Programación Modular
 
 ## 📦 Conceptos básico de programación modular
 
@@ -61,7 +61,7 @@ En el paso por valor, la función recibe únicamente una copia local de los dato
 ### Estructura básica:
 
 ```c
-int edades[5];
+int nota [4];
 ```
 
 ✅ **Características:**
@@ -74,6 +74,7 @@ int edades[5];
 
 ✅ **Ejemplo:**
 
+<img width="919" height="585" alt="Captura de pantalla (477)" src="https://github.com/user-attachments/assets/f85d4f0a-2060-4c26-9960-e34f8af40785" />
 
 
 ---
@@ -91,7 +92,7 @@ int edades[5];
 ### Estructura básica:
 
 ```c
-int matriz[3][3];
+int matriz[2][2];
 ```
 
 ✅ **Características:**
@@ -103,6 +104,10 @@ int matriz[3][3];
 🔹 **Recorrido:** Generalmente requiere dos ciclos anidados (`for`).
 
 ✅ **Ejemplo:**
+
+<img width="741" height="704" alt="Captura de pantalla (480)" src="https://github.com/user-attachments/assets/886a06f1-e16f-4540-942c-cd42390d3750" />
+
+
 
 ---
 
@@ -132,15 +137,10 @@ int cubo[2][3][4];
 
 ✅ **Ejemplo:**
 
+<img width="722" height="684" alt="Captura de pantalla (484)" src="https://github.com/user-attachments/assets/02926721-7589-4a50-922a-504cdd6d675c" />
 
+<img width="738" height="301" alt="Captura de pantalla (486)" src="https://github.com/user-attachments/assets/991f1d15-41fb-4c0a-947f-c2672ced47b3" />
 
-
-
----
-
-
-
-### 🔤
 ---
 
 ### ⚠️ Principales Dificultades
@@ -157,4 +157,4 @@ int cubo[2][3][4];
 
 
 
-[Portafolio](portafolio.md)
+[Portafolio]()
