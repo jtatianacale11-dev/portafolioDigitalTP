@@ -11,6 +11,7 @@ Cada módulo se encarga de resolver una tarea específica y esto ofrece varias v
 
 ## 🧩 Paso de parámetros por valor
 
+> **Definición:**
 En el paso por valor, la función recibe únicamente una copia local de los datos que le envías.
 
 ★¿Cómo funciona internamente?: Cuando se llama a la función, el sistema reserva un nuevo espacio en la memoria para las variables de la función (parámetros formales) y copia los datos de las variables originales en esos nuevos espacios.
