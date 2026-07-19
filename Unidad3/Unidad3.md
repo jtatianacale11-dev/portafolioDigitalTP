@@ -49,7 +49,7 @@ En el paso por valor, la función recibe únicamente una copia local de los dato
 
 
 ## ⬛ Arreglos 
-## 📌 Arreglos Unidimensionales
+### 📌 Arreglos Unidimensionales
 
 📌 **Estructura que organiza datos en una sola dimensión (una lista).**
 
@@ -80,7 +80,7 @@ int nota [4];
 
 ---
 
-## 📌 Arreglos Bidimensionales (Matrices)
+### 📌 Arreglos Bidimensionales (Matrices)
 
 📌 **Estructura que organiza datos en dos dimensiones: filas y columnas.**
 
@@ -112,7 +112,7 @@ int matriz[2][2];
 
 ---
 
-## 📌 Arreglos Tridimensionales
+### 📌 Arreglos Tridimensionales
 
 📌 **Estructura que organiza datos en tres dimensiones: capas , filas y columnas.**
 
