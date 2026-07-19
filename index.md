@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  📘 **TEORIA DE LA PROGRAMACIÓN**
+  📘 TEORIA DE LA PROGRAMACIÓN
 </h3>
 
 ## **📅 CICLO 1** 
