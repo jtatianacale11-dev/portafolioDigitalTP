@@ -77,8 +77,11 @@ UNIDAD2
 
 UNIDAD3
 [1] Pressman, R. S., & Maxim, B. R. (2020). Ingeniería del software: Un enfoque práctico (9.ª ed.). McGraw-Hill.
+
 [2] Programiz. (s. f.). C Pass Addresses and Pointers to Functions. Recuperado el 18 de julio de 2026, de Programiz – C Pass Addresses and Pointers to Functions. 
+
 [3] Learn C. (s. f.). C Pass by Reference. Recuperado el 18 de julio de 2026, de Learn C – Pass by Reference. 
+
 [4] Programiz. (s. f.). C Multidimensional Arrays. Recuperado el 18 de julio de 2026, de https://www.programiz.com/c-programming/c-multi-dimensional-arrays
 
 ## 🤖 **Uso de la IA Generativa**  
