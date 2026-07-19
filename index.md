@@ -5,7 +5,7 @@
 
 <h3 align="center">
   📘 TEORIA DE LA PROGRAMACIÓN
- <img width="612" height="376" alt="image" src="https://github.com/user-attachments/assets/cdf293f8-8f61-4db8-b60e-011a89680926" />
+ <img width="300" alt="image" src="https://github.com/user-attachments/assets/..." />
 
 </h3>
 
