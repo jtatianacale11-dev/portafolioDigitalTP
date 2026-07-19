@@ -8,7 +8,13 @@
 📅**Fecha:** *marzo-agosto 2026*  
 📍**Institución:** UNIVERSIDAD NACIONAL DE LOJA*
 
+<h1 align="center">
+📂 PORTAFOLIO DIGITAL DE APRENDIZAJE
+</h1>
 
+<h3 align="center">
+Teoría de la Programación
+</h3>
 
 [Ir a Portafolio→](portafolio.md)
 
