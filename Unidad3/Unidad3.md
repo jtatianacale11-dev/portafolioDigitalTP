@@ -144,7 +144,7 @@ int cubo[2][2][2];
 
 ---
 
-### ⚠️ Principales Dificultades
+### ⚠️ Principales Dificultades 
 
 > ✔️ Mi mayor dificultad es olvidar que los arreglos inician en 0. 
 
