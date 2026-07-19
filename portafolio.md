@@ -76,6 +76,7 @@ UNIDAD2
 [3] PSeInt, "Manual de usuario: Estructuras de control y diagramas de flujo," PSeInt Project, 2026. [En línea]. Disponible en: http://pseint.sourceforge.net/documentacion.html. [Accedido: 9 de junio de 2026].
 
 UNIDAD3
+
 [1] Pressman, R. S., & Maxim, B. R. (2020). Ingeniería del software: Un enfoque práctico (9.ª ed.). McGraw-Hill.
 
 [2] Programiz. (s. f.). C Pass Addresses and Pointers to Functions. Recuperado el 18 de julio de 2026, de Programiz – C Pass Addresses and Pointers to Functions. 
