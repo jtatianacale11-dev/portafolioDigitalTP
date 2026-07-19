@@ -9,10 +9,10 @@
 
 ## **📅 CICLO 1** 
 👩‍🏫**Docente** *Ing. Lissette Geoconda López Faicán, PhD*
-
-✍️**Autor:** *Josselyn Tatiana Cale Cale*  
+👩‍🎓**Autor:** *Josselyn Tatiana Cale Cale*  
 📅**Fecha:** *marzo-agosto 2026*  
-📍**Institución:** UNIVERSIDAD NACIONAL DE LOJA*
+🏛**Institución:** UNIVERSIDAD NACIONAL DE LOJA*
+
 
 [Ir a Portafolio→](portafolio.md)
 
