@@ -58,13 +58,11 @@
 ## 💻 Bibliografia
 UNIDAD1
 
-[1] L. Joyanes Aguilar, Fundamentos de programación: algoritmos, estructura de datos y objetos, 4.ª ed. Madrid: McGraw-Hill, 2008.
+[1] T. Asana, «¿Qué es un diagrama de flujo y cómo hacerlo?,» Asana, pp. https://asana.com/es/resources/what-is-a-flowchart, 17 02 2025.
 
-[2] G. Brookshear, Introducción a la informática, 12.ª ed. Madrid: Pearson Educación, 2016.
+[2] Universidad Politécnica de Madrid, "Introducción a los algoritmos y tipos de datos", OpenCourseWare, 2025. [En línea]. Disponible en: https://ocw.upm.es/algoritmos-fundamentos/. 
 
-[3] Universidad Politécnica de Madrid, "Introducción a los algoritmos y tipos de datos", OpenCourseWare, 2025. [En línea]. Disponible en: https://ocw.upm.es/algoritmos-fundamentos/. 
-
-[4] EcuRed, "Algoritmo (Informática)", Enciclopedia colaborativa, 2026. [En línea]. Disponible en: https://www.ecured.cu/Algoritmo_(Informática). 
+[3] EcuRed, "Algoritmo (Informática)", Enciclopedia colaborativa, 2026. [En línea]. Disponible en: https://www.ecured.cu/Algoritmo_(Informática). 
 
 
 
@@ -76,6 +74,21 @@ UNIDAD2
 2024. [En línea]. Disponible en: https://www.tecnologia.unav.edu/algoritmos/estructuras-control. [Accedido: 9 de junio de 2026].
 
 [3] PSeInt, "Manual de usuario: Estructuras de control y diagramas de flujo," PSeInt Project, 2026. [En línea]. Disponible en: http://pseint.sourceforge.net/documentacion.html. [Accedido: 9 de junio de 2026].
+
+UNIDAD3
+[1] Pressman, R. S., & Maxim, B. R. (2020). Ingeniería del software: Un enfoque práctico (9.ª ed.). McGraw-Hill.
+[2] Programiz. (s. f.). C Pass Addresses and Pointers to Functions. Recuperado el 18 de julio de 2026, de Programiz – C Pass Addresses and Pointers to Functions. 
+[3] Learn C. (s. f.). C Pass by Reference. Recuperado el 18 de julio de 2026, de Learn C – Pass by Reference. 
+[4] Programiz. (s. f.). C Multidimensional Arrays. Recuperado el 18 de julio de 2026, de https://www.programiz.com/c-programming/c-multi-dimensional-arrays
+
+## 🤖 **Uso de la IA Generativa**  
+<p align="justify">
+Al desarrollar este portafolio, utilicé herramientas de inteligencia artificial generativa (Chatgpt.com) principalmente para mejorar la escritura, estructurar ideas y     aclarar conceptos de programación en C. La IA me permitió comprender con mayor rapidez la lógica de los algoritmos, identificar errores comunes y generar     explicaciones más claras sobre el funcionamiento del código. Además, contribuyó a mejorar la presentación visual del portafolio, ayudándome a formatear       correctamente el contenido en Markdown y a crear una estructura más profesional y organizada. Sin embargo, el proceso de análisis, razonamiento y resolución  de problemas se llevó a cabo de manera personal, utilizando la inteligencia artificial únicamente como una herramienta complementaria de apoyo al aprendizaje.
+</p>
+
+
+
+[Ir a Portada→](index.md)
 
 
 ---
