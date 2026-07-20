@@ -55,8 +55,6 @@
 
 ## 📚 **Referencias** 
 
-
-## 💻 Bibliografia
 UNIDAD1
 
 [1] T. Asana, «¿Qué es un diagrama de flujo y cómo hacerlo?,» Asana, pp. https://asana.com/es/resources/what-is-a-flowchart, 17 02 2025.
